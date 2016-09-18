@@ -1,0 +1,139 @@
+{
+	"origin": ["#preface##[#set_hardware_colors#][#set_house_colors#]bg##door_trim##door##ending#"],
+
+	"preface":"{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"#baseh#\" width=\"#basew#\" viewBox=\"0 0 250 250\">",
+	"bg":"<rect x=\"0\" y=\"0\" width=\"#basew#\" height=\"#baseh#\" fill=\"\\##bg_color#\" opacity=\"1\" />",
+
+	"set_house_colors": [
+		"[body_light_color:bbaf9b][body_mid_color:a6967c][body_dark_color:8f7e61][trim_light_color:f9f6f0][trim_mid_color:ece1cb][trim_dark_color:dccba7][accent_1_light_color:841915][accent_1_mid_color:57100e][accent_1_dark_color:2c0807][accent_2_light_color:49494b][accent_2_mid_color:2f2f30][accent_2_dark_color:171717]",
+
+		"[body_light_color:c5c7c9][body_mid_color:acafb1][body_dark_color:909498][trim_light_color:ffffff][trim_mid_color:eaeaea][trim_dark_color:d1d1c7][accent_1_light_color:a0b6ad][accent_1_mid_color:84a195][accent_1_dark_color:68877a][accent_2_light_color:222222][accent_2_mid_color:444444][accent_2_dark_color:000000]",
+
+		"[body_light_color:8e8a7b][body_mid_color:a6a397][body_dark_color:58554b][trim_light_color:8f8b76][trim_mid_color:73705e][trim_dark_color:575447][accent_1_light_color:ffffff][accent_1_mid_color:f0eadb][accent_1_dark_color:e1d5b7][accent_2_light_color:726e5f][accent_2_mid_color:565348][accent_2_dark_color:3a3831]",
+
+		"[body_light_color:d0d2d2][body_mid_color:b4b9b9][body_dark_color:9ca0a0][trim_light_color:ffffff][trim_mid_color:edece6][trim_dark_color:d8d6ca][accent_1_light_color:f5dbb7][accent_1_mid_color:efc488][accent_1_dark_color:e9af5d][accent_2_light_color:93999f][accent_2_mid_color:777f86][accent_2_dark_color:60666c]",
+
+		"[body_light_color:69808c][body_mid_color:546670][body_dark_color:3d4a51][trim_light_color:ffffff][trim_mid_color:f0eadc][trim_dark_color:e0d4b8][accent_1_light_color:e4c5a5][accent_1_mid_color:d9ad7f][accent_1_dark_color:cd9156][accent_2_light_color:b27d57][accent_2_mid_color:946644][accent_2_dark_color:704d33]",
+
+		"[body_light_color:f6f0e5][body_mid_color:e8d9bd][body_dark_color:dcc498][trim_light_color:ffffff][trim_mid_color:f0eadc][trim_dark_color:e0d4b8][accent_1_light_color:897072][accent_1_mid_color:6d595a][accent_1_dark_color:514344][accent_2_light_color:b08b63][accent_2_mid_color:96724c][accent_2_dark_color:73583a]"
+	],
+
+	"set_hardware_colors": [
+		"[hardwareLightColor:f8f0c1][hardwareMidColor:e5c656][hardwareDarkColor: 6c4609]",
+		"[hardwareLightColor:cfcac4][hardwareMidColor:a29b91][hardwareDarkColor:666666]",
+		"[hardwareLightColor:e4a96e][hardwareMidColor:9c5d38][hardwareDarkColor:453e36]",
+		"[hardwareLightColor:999999][hardwareMidColor:666666][hardwareDarkColor:000000]"
+	],
+
+	"set_door_colors": [
+		"[door_light_color:d88a91][door_mid_color:d95763][door_dark_color:ac3232]"
+	],
+
+	"window_color": "cbdbfc",
+	"door_back_color": "#accent_1_mid_color#",
+
+	"set_door_detail_color": [
+		"[door_detail_color:#accent_1_dark_color#]",
+		"[door_detail_color:#accent_1_light_color#]"
+	],
+
+	"door_trim": ["#door_trim_thick#", "#door_trim_medium#", "#door_trim_thin#"],
+	
+	"door_trim_thick": "<rect x=\"101\" y=\"87\" width=\"47\" height=\"70\" fill=\"\\##trim_light_color#\" /><rect x=\"103\" y=\"89\" width=\"43\" height=\"68\" fill=\"\\##trim_dark_color#\" /><rect x=\"104\" y=\"90\" width=\"41\" height=\"67\" fill=\"\\##trim_mid_color#\" /><rect x=\"105\" y=\"91\" width=\"39\" height=\"66\" fill=\"\\##trim_dark_color#\" /><rect x=\"106\" y=\"92\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
+	"door_trim_medium": "<rect x=\"104\" y=\"90\" width=\"41\" height=\"67\" fill=\"\\##trim_mid_color#\" /><rect x=\"105\" y=\"91\" width=\"39\" height=\"66\" fill=\"\\##trim_dark_color#\" /><rect x=\"106\" y=\"92\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
+	"door_trim_thin": "<rect x=\"106\" y=\"92\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
+
+	"door": ["<svg x=\"107\" y=\"93\" width=\"35\" height=\"64\" viewBox=\"0 0 35 64\">#door_back# #door_hardware#</svg>"],
+	"door_back": "<rect x=\"0\" y=\"0\" width=\"35\" height=\"64\" fill=\"\\##door_back_color#\" /> #[#set_door_detail_color#]door_layout#",
+
+	"door_layout": ["#door_layout_1/4_3/4#"],
+	"door_layouttt": [
+		"#door_layout_1/4_3/4#",
+		"#door_layout_1/4_3/8_3/8#",
+		"#door_layout_1/2_1/2#",
+		"#door_layout_3/4_1/4#",
+		"#door_layout_1/3_2/3#",
+		"#door_layout_full"
+	],
+
+	"door_layout_1/4_3/4": [
+		"#[detail_fill:#window_color#]door_layout_top_1/4#  #[detail_fill:#window_color#]door_layout_bottom_3/4#",
+		"#[detail_fill:#window_color#]door_layout_top_1/4# #[detail_fill:#door_back_color#]door_layout_bottom_3/4#",
+		"#[detail_fill:#door_back_color#]door_layout_top_1/4# #[detail_fill:#door_back_color#]door_layout_bottom_3/4#"
+	],
+
+	"door_layout_top_1/4": [
+		"#[detail_fill:#detail_fill#]door_layout_top_1/4__narrow_slats#",
+		"#[detail_fill:#detail_fill#]door_layout_top_1/4__row#",
+		"#[detail_fill:#detail_fill#]door_layout_top_1/4__two_column_row#",
+		"#[detail_fill:#detail_fill#]door_layout_top_1/4__half_circle#"
+	],
+
+	"door_layout_top_1/4__two_column_row": [
+		"<rect x=\"5\" y=\"5\" width=\"10\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"20\" y=\"5\" width=\"10\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"8\" fill=\"\\##detail_fill#\" />"
+	],
+
+	"door_layout_top_1/4__row": [
+		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"23\" height=\"8\" fill=\"\\##detail_fill#\" />"
+	],
+
+	"door_layout_top_1/4__narrow_slats": [
+		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"9\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"12\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"15\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"18\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"21\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"24\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" /> <rect x=\"27\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##detail_fill#\" />"
+	],
+
+	"door_layout_top_1/4__half_circle": [
+		"<rect x=\"5\" y=\"14\" width=\"25\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"12\" width=\"23\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"7\" y=\"12\" width=\"21\" height=\"2\"  fill=\"\\##detail_fill#\" /> <rect x=\"7\" y=\"10\" width=\"21\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"10\" width=\"19\" height=\"2\"  fill=\"\\##detail_fill#\" /> <rect x=\"8\" y=\"9\" width=\"19\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"9\" y=\"9\" width=\"17\" height=\"1\"  fill=\"\\##detail_fill#\" /> <rect x=\"9\" y=\"8\" width=\"17\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"10\" y=\"8\" width=\"15\" height=\"1\"  fill=\"\\##detail_fill#\" /> <rect x=\"10\" y=\"7\" width=\"15\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"12\" y=\"7\" width=\"11\" height=\"1\"  fill=\"\\##detail_fill#\" /> <rect x=\"12\" y=\"6\" width=\"11\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"14\" y=\"6\" width=\"7\" height=\"1\"  fill=\"\\##detail_fill#\" /> <rect x=\"14\" y=\"5\" width=\"7\" height=\"1\"  fill=\"\\##door_detail_color#\" />"
+	],
+
+	"door_layout_bottom_3/4": [
+		"#[detail_fill:#detail_fill#]door_layout_bottom_3/4__row#",
+		"#[detail_fill:#detail_fill#]door_layout_bottom_3/4__two_column_row#",
+		"#[detail_fill:#door_back_color#]door_layout_bottom_3/4__narrow_slats#"
+	],
+
+	"door_layout_bottom_3/4__row": [
+		"<rect x=\"5\" y=\"20\" width=\"25\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"23\" height=\"37\" fill=\"\\##detail_fill#\" /> "
+	],
+
+	"door_layout_bottom_3/4__two_column_row": [
+		"<rect x=\"5\" y=\"20\" width=\"10\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"8\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"20\" y=\"20\" width=\"10\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"21\" width=\"8\" height=\"37\" fill=\"\\##detail_fill#\" />"
+	],
+
+	"door_layout_bottom_3/4__narrow_slats": [
+		"<rect x=\"5\" y=\"20\" width=\"25\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"9\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"12\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"15\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"18\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"21\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"24\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" /> <rect x=\"27\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##detail_fill#\" />"
+	],
+
+
+	"door_hardware": ["<svg y=\"24\" x=\"31\" width=\"3\" height=\"16\" viewBox=\"0 0 3 16\">#doorknob_backplate# #doorknob#</svg>"],
+	
+	"doorknob_opacity": "1",
+	"doorknob_color": "#hardwareLightColor#",
+	"doorknob_backplate_color": "#hardwareMidColor#",
+	"doorknob_keyhole_color": "#hardwareDarkColor#",
+
+	"doorknob": ["#doorknob_top#", "#doorknob_bottom#", "#doorknob_top_and_bottom#"],
+	"doorknob_top": "<rect x=\"1\" y=\"4\" width=\"1\" height=\"3\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" /> <rect x=\"0\" y=\"5\" width=\"3\" height=\"1\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" />",
+	"doorknob_bottom": "<rect x=\"1\" y=\"9\" width=\"1\" height=\"3\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" /> <rect x=\"0\" y=\"10\" width=\"3\" height=\"1\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" />",
+	"doorknob_top_and_bottom": ["#doorknob_top# #doorknob_bottom#"],
+
+	"doorknob_backplate": ["", "#doorknob_backplate_single#", "#doorknob_backplate_double#"],
+
+	"doorknob_backplate_single": ["<rect x=\"0\" y=\"8\" width=\"3\" height=\"5\" fill=\"\\##doorknob_backplate_color#\" /> <rect x=\"1\" y=\"10\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> #doorknob_backplate_single_round_top# #doorknob_backplate_round_bottom#"],
+	"doorknob_backplate_double": ["<rect x=\"0\" y=\"3\" width=\"3\" height=\"10\" fill=\"\\##doorknob_backplate_color#\" /> <rect x=\"1\" y=\"5\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> <rect x=\"1\" y=\"10\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> #doorknob_backplate_double_round_top# #doorknob_backplate_round_bottom#"],
+
+	"doorknob_backplate_single_round_top": ["", "<rect x=\"1\" y=\"8\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_single_round_top_decoration#"],
+	"doorknob_backplate_single_round_top_decoration": ["", "<rect x=\"1\" y=\"6\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
+
+	"doorknob_backplate_double_round_top": ["", "<rect x=\"1\" y=\"2\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_double_round_top_decoration#"],
+	"doorknob_backplate_double_round_top_decoration": ["", "<rect x=\"1\" y=\"0\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
+
+	"doorknob_backplate_round_bottom": ["", "<rect x=\"1\" y=\"13\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_round_bottom_decoration#"],
+	"doorknob_backplate_round_bottom_decoration": ["", "<rect x=\"1\" y=\"15\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
+
+	"ending":"</svg>}",
+	
+	"bg_color":"#body_mid_color#",
+
+	"basew":"500",
+	"baseh":"500" 
+}
