@@ -1,8 +1,8 @@
 {
 	"origin": ["#preface##[#set_hardware_colors#][#set_house_colors#]bg##door_trim##door##ending#"],
 
-	"preface":"{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"#baseh#\" width=\"#basew#\" viewBox=\"0 0 250 250\">",
-	"bg":"<rect x=\"0\" y=\"0\" width=\"#basew#\" height=\"#baseh#\" fill=\"\\##bg_color#\" opacity=\"1\" />",
+	"preface":"{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"500\" width=\"500\" viewBox=\"0 0 250 250\">",
+	"bg":"<rect x=\"0\" y=\"0\" width=\"250\" height=\"249\" fill=\"\\##bg_color#\" opacity=\"1\" /><rect x=\"1\" y=\"249\" width=\"250\" height=\"1\" fill=\"\\##bg_color#\" opacity=\"1\" />",
 
 	"set_house_colors": [
 		"[body_light_color:bbaf9b][body_mid_color:a6967c][body_dark_color:8f7e61][trim_light_color:f9f6f0][trim_mid_color:ece1cb][trim_dark_color:dccba7][accent_1_light_color:841915][accent_1_mid_color:57100e][accent_1_dark_color:2c0807][accent_2_light_color:49494b][accent_2_mid_color:2f2f30][accent_2_dark_color:171717]",
@@ -213,8 +213,5 @@
 
 	"ending":"</svg>}",
 	
-	"bg_color":"#body_mid_color#",
-
-	"basew":"500",
-	"baseh":"500" 
+	"bg_color":"#body_mid_color#"
 }
