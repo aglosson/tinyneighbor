@@ -1,547 +1,121 @@
 {
-	"origin": "#preface##[#set_hardware_colors#][#set_house_colors#][#set_bg_color#]bg# <g transform=\"translate(127, 127)\">#house#</g> #ending#",
-
-	"origin__output": "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"500\" width=\"500\" viewBox=\"0 0 500 500\" rendering=\"crispEdges\"><rect x=\"0\" y=\"0\" width=\"500\" height=\"499\" fill=\"\\#F3FFC4\"></rect><rect x=\"1\" y=\"499\" width=\"500\" height=\"1\" fill=\"\\#F3FFC4\"></rect> <g transform=\"translate(127, 127)\"><mask id=\"base_mask\"><rect x=\"0\" y=\"90\" width=\"245\" height=\"79\" fill=\"white\"></rect> <g transform=\"translate(-15, 0)\"><path stroke=\"white\" d=\"M135 10h5M134 11h7M132 12h11M131 13h13M129 14h17M128 15h19M126 16h23M125 17h25M123 18h29M122 19h31M120 20h35M119 21h37M117 22h41M116 23h43M114 24h47M113 25h49M111 26h53M110 27h55M108 28h59M107 29h61M105 30h65M104 31h67M102 32h71M101 33h73M99 34h77M98 35h79M96 36h83M95 37h85M93 38h89M92 39h91M90 40h95M89 41h97M87 42h101M86 43h103M84 44h107M83 45h109M81 46h113M80 47h115M78 48h119M77 49h121M75 50h125M74 51h127M72 52h131M71 53h133M69 54h137M68 55h139M66 56h143M65 57h145M63 58h149M62 59h151M60 60h155M59 61h157M57 62h161M56 63h163M54 64h167M53 65h169M51 66h173M50 67h175M48 68h179M47 69h181M45 70h185M44 71h187M42 72h191M41 73h193M39 74h197M38 75h199M36 76h203M35 77h205M33 78h209M32 79h211M30 80h215M29 81h217M27 82h221M26 83h223M24 84h227M23 85h229M21 86h233M20 87h235M18 88h239M17 89h241M15 90h245\"></path></g></mask> <g mask=\"url(\\#base_mask)\"><rect x=\"0\" y=\"0\" height=\"499\" width=\"500\" fill=\"\\#e8d9bd\"></rect>  <path stroke=\"\\#dcc498\" d=\"M0 5h500M0 11h500M0 17h500M0 23h500M0 29h500M0 35h500M0 41h500M0 47h500M0 53h500M0 59h500M0 65h500M0 71h500M0 77h500M0 83h500M0 89h500M0 95h500M0 101h500M0 107h500M0 113h500M0 119h500M0 125h500M0 131h500M0 137h500M0 143h500M0 149h500M0 155h500M0 161h500M0 167h500M0 173h500M0 179h500M0 185h500M0 191h500M0 197h500M0 203h500M0 209h500M0 215h500M0 221h500M0 227h500M0 233h500M0 239h500M0 245h500M0 251h500M0 257h500M0 263h500M0 269h500M0 275h500M0 281h500M0 287h500M0 293h500M0 299h500M0 305h500M0 311h500M0 317h500M0 323h500M0 329h500M0 335h500M0 341h500M0 347h500M0 353h500M0 359h500M0 365h500M0 371h500M0 377h500M0 383h500M0 389h500M0 395h500M0 401h500M0 407h500M0 413h500M0 419h500M0 425h500M0 431h500M0 437h500M0 443h500M0 449h500M0 455h500M0 461h500M0 467h500M0 473h500M0 479h500M0 485h500M0 491h500M0 497h500\"></path></g> <g transform=\"translate(-15, 0)\"><path stroke=\"\\#000000\" d=\"M135 0h5M134 1h1M140 1h1M132 2h2M141 2h2M131 3h1M143 3h1M129 4h2M144 4h2M128 5h1M146 5h1M126 6h2M147 6h2M125 7h1M149 7h1M123 8h2M150 8h2M122 9h1M152 9h1M120 10h2M153 10h2M119 11h1M155 11h1M117 12h2M156 12h2M116 13h1M158 13h1M114 14h2M159 14h2M113 15h1M161 15h1M111 16h2M162 16h2M110 17h1M164 17h1M108 18h2M165 18h2M107 19h1M167 19h1M105 20h2M168 20h2M104 21h1M170 21h1M102 22h2M171 22h2M101 23h1M173 23h1M99 24h2M174 24h2M98 25h1M176 25h1M96 26h2M177 26h2M95 27h1M179 27h1M93 28h2M180 28h2M92 29h1M182 29h1M90 30h2M183 30h2M89 31h1M185 31h1M87 32h2M186 32h2M86 33h1M188 33h1M84 34h2M189 34h2M83 35h1M191 35h1M81 36h2M192 36h2M80 37h1M194 37h1M78 38h2M195 38h2M77 39h1M197 39h1M75 40h2M198 40h2M74 41h1M200 41h1M72 42h2M201 42h2M71 43h1M203 43h1M69 44h2M204 44h2M68 45h1M206 45h1M66 46h2M207 46h2M65 47h1M209 47h1M63 48h2M210 48h2M62 49h1M212 49h1M60 50h2M213 50h2M59 51h1M215 51h1M57 52h2M216 52h2M56 53h1M218 53h1M54 54h2M219 54h2M53 55h1M221 55h1M51 56h2M222 56h2M50 57h1M224 57h1M48 58h2M225 58h2M47 59h1M227 59h1M45 60h2M228 60h2M44 61h1M230 61h1M42 62h2M231 62h2M41 63h1M233 63h1M39 64h2M234 64h2M38 65h1M236 65h1M36 66h2M237 66h2M35 67h1M239 67h1M33 68h2M240 68h2M32 69h1M242 69h1M30 70h2M243 70h2M29 71h1M245 71h1M27 72h2M246 72h2M26 73h1M248 73h1M24 74h2M249 74h2M23 75h1M251 75h1M21 76h2M252 76h2M20 77h1M254 77h1M18 78h2M255 78h2M17 79h1M257 79h1M15 80h2M258 80h2M14 81h1M260 81h1M12 82h2M261 82h2M11 83h1M263 83h1M9 84h2M264 84h2M8 85h1M266 85h1M6 86h2M267 86h2M5 87h1M269 87h1M3 88h2M270 88h2M2 89h1M272 89h1M0 90h2M273 90h2\"></path><path stroke=\"\\#f0eadc\" d=\"M135 1h5M134 2h7M132 3h11M131 4h13M129 5h17M128 6h19M126 7h23M125 8h25M123 9h29M122 10h13M140 10h13M120 11h14M141 11h14M119 12h13M143 12h13M117 13h14M144 13h14M116 14h13M146 14h13M114 15h14M147 15h14M113 16h13M149 16h13M111 17h14M150 17h14M110 18h13M152 18h13M108 19h14M153 19h14M107 20h13M155 20h13M105 21h14M156 21h14M104 22h13M158 22h13M102 23h14M159 23h14M101 24h13M161 24h13M99 25h14M162 25h14M98 26h13M164 26h13M96 27h14M165 27h14M95 28h13M167 28h13M93 29h14M168 29h14M92 30h13M170 30h13M90 31h14M171 31h14M89 32h13M173 32h13M87 33h14M174 33h14M86 34h13M176 34h13M84 35h14M177 35h14M83 36h13M179 36h13M81 37h14M180 37h14M80 38h13M182 38h13M78 39h14M183 39h14M77 40h13M185 40h13M75 41h14M186 41h14M74 42h13M188 42h13M72 43h14M189 43h14M71 44h13M191 44h13M69 45h14M192 45h14M68 46h13M194 46h13M66 47h14M195 47h14M65 48h13M197 48h13M63 49h14M198 49h14M62 50h13M200 50h13M60 51h14M201 51h14M59 52h13M203 52h13M57 53h14M204 53h14M56 54h13M206 54h13M54 55h14M207 55h14M53 56h13M209 56h13M51 57h14M210 57h14M50 58h13M212 58h13M48 59h14M213 59h14M47 60h13M215 60h13M45 61h14M216 61h14M44 62h13M218 62h13M42 63h14M219 63h14M41 64h13M221 64h13M39 65h14M222 65h14M38 66h13M224 66h13M36 67h14M225 67h14M35 68h13M227 68h13M33 69h14M228 69h14M32 70h13M230 70h13M30 71h14M231 71h14M29 72h13M233 72h13M27 73h14M234 73h14M26 74h13M236 74h13M24 75h14M237 75h14M23 76h13M239 76h13M21 77h14M240 77h14M20 78h13M242 78h13M18 79h14M243 79h14M17 80h13M245 80h13M15 81h14M246 81h14M14 82h13M248 82h13M12 83h14M249 83h14M11 84h13M251 84h13M9 85h14M252 85h14M8 86h13M254 86h13M6 87h14M255 87h14M5 88h13M257 88h13M3 89h14M258 89h14M2 90h13M260 90h13\"></path></g> <g transform=\"translate(0, 90)\"><g transform=\"translate(32, 0)\"><g transform=\"translate(105, 15)\"><g><rect x=\"-6\" y=\"-6\" width=\"47\" height=\"70\" fill=\"\\#ffffff\"></rect><rect x=\"-4\" y=\"-4\" width=\"43\" height=\"68\" fill=\"\\#e0d4b8\"></rect><rect x=\"-3\" y=\"-3\" width=\"41\" height=\"67\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"-2\" width=\"39\" height=\"66\" fill=\"\\#e0d4b8\"></rect><rect x=\"-1\" y=\"-1\" width=\"37\" height=\"65\" fill=\"\\#f0eadc\"></rect> <rect x=\"0\" y=\"0\" width=\"35\" height=\"64\" fill=\"\\#6d595a\"></rect> <rect x=\"5\" y=\"5\" width=\"25\" height=\"10\" fill=\"\\#897072\"></rect> <rect x=\"6\" y=\"6\" width=\"23\" height=\"8\" fill=\"\\#6d595a\"></rect> <rect x=\"5\" y=\"20\" width=\"25\" height=\"39\" fill=\"\\#897072\"></rect> <rect x=\"6\" y=\"21\" width=\"23\" height=\"37\" fill=\"\\#6d595a\"></rect>  <g transform=\" translate(31, 24)\"><rect x=\"0\" y=\"8\" width=\"3\" height=\"5\" fill=\"\\#e5c656\"></rect> <rect x=\"1\" y=\"10\" width=\"1\" height=\"1\" fill=\"\\# 6c4609\"></rect>   <rect x=\"1\" y=\"9\" width=\"1\" height=\"3\" fill=\"\\#f8f0c1\" opacity=\"1\"></rect> <rect x=\"0\" y=\"10\" width=\"3\" height=\"1\" fill=\"\\#f8f0c1\" opacity=\"1\"></rect></g></g></g> <g transform=\"translate(-5, 0)\"><path stroke=\"\\#000000\" opacity=\"0.1\" d=\"M0 0h187M1 1h187M2 2h187M3 3h187M4 4h187M5 5h187M6 6h187M7 7h187M8 8h187M9 9h187M10 10h187M11 11h187M12 12h187M13 13h187M14 14h187M15 15h187M16 16h187M17 17h187M18 18h187M19 19h187M20 20h187M21 21h187M22 22h187M23 23h187M24 24h187M25 25h187M26 26h187M27 27h187M28 28h187M29 29h187M30 30h187M31 31h187M32 32h187M33 33h187M34 34h187M35 35h187M36 36h187M37 37h187M38 38h187M39 39h187M40 40h187M41 41h187M42 42h187M43 43h187M44 44h187M45 45h187M46 46h187M47 47h187M48 48h187M49 49h187M50 50h187M51 51h187M52 52h187M53 53h187M54 54h187M55 55h187M56 56h187M57 57h187M58 58h187M59 59h187M60 60h187M61 61h187M62 62h187M63 63h187M64 64h187M65 65h187M66 66h187M67 67h187M68 68h187M69 69h187M70 70h187M71 71h187M72 72h187M73 73h187M74 74h187M75 75h187M76 76h187M77 77h187M78 78h187\"></path></g> <g transform=\"translate(-5, 0)\"><rect x=\"0\" y=\"0\" width=\"10\" height=\"79\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"0\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"77\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"0\" y=\"0\" width=\"12\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"2\" y=\"2\" width=\"8\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"9\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"0\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"12\" height=\"1\" fill=\"\\#ffffff\"></rect></g><g transform=\"translate(65, 0)\"><rect x=\"0\" y=\"0\" width=\"10\" height=\"79\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"0\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"77\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"0\" y=\"0\" width=\"12\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"2\" y=\"2\" width=\"8\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"9\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"0\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"12\" height=\"1\" fill=\"\\#ffffff\"></rect></g><g transform=\"translate(170, 0)\"><rect x=\"0\" y=\"0\" width=\"10\" height=\"79\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"0\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"-2\" y=\"77\" width=\"14\" height=\"2\" fill=\"\\#f0eadc\"></rect><rect x=\"0\" y=\"0\" width=\"12\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"2\" y=\"2\" width=\"8\" height=\"1\" fill=\"\\#e0d4b8\"></rect><rect x=\"9\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"11\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#e0d4b8\"></rect><rect x=\"0\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\#ffffff\"></rect><rect x=\"-2\" y=\"77\" width=\"12\" height=\"1\" fill=\"\\#ffffff\"></rect></g> <g transform=\"translate(-32, -69)\"><clipPath id=\"porch_medium_clip\"><rect x=\"0\" y=\"0\" width=\"300\" height=\"69\"></rect></clipPath> <g clip-path=\"url(\\#porch_medium_clip)\"><g transform=\"translate(-15, 0)\"><path stroke=\"\\#000000\" d=\"M135 0h5M134 1h1M140 1h1M132 2h2M141 2h2M131 3h1M143 3h1M129 4h2M144 4h2M128 5h1M146 5h1M126 6h2M147 6h2M125 7h1M149 7h1M123 8h2M150 8h2M122 9h1M152 9h1M120 10h2M153 10h2M119 11h1M155 11h1M117 12h2M156 12h2M116 13h1M158 13h1M114 14h2M159 14h2M113 15h1M161 15h1M111 16h2M162 16h2M110 17h1M164 17h1M108 18h2M165 18h2M107 19h1M167 19h1M105 20h2M168 20h2M104 21h1M170 21h1M102 22h2M171 22h2M101 23h1M173 23h1M99 24h2M174 24h2M98 25h1M176 25h1M96 26h2M177 26h2M95 27h1M179 27h1M93 28h2M180 28h2M92 29h1M182 29h1M90 30h2M183 30h2M89 31h1M185 31h1M87 32h2M186 32h2M86 33h1M188 33h1M84 34h2M189 34h2M83 35h1M191 35h1M81 36h2M192 36h2M80 37h1M194 37h1M78 38h2M195 38h2M77 39h1M197 39h1M75 40h2M198 40h2M74 41h1M200 41h1M72 42h2M201 42h2M71 43h1M203 43h1M69 44h2M204 44h2M68 45h1M206 45h1M66 46h2M207 46h2M65 47h1M209 47h1M63 48h2M210 48h2M62 49h1M212 49h1M60 50h2M213 50h2M59 51h1M215 51h1M57 52h2M216 52h2M56 53h1M218 53h1M54 54h2M219 54h2M53 55h1M221 55h1M51 56h2M222 56h2M50 57h1M224 57h1M48 58h2M225 58h2M47 59h1M227 59h1M45 60h2M228 60h2M44 61h1M230 61h1M42 62h2M231 62h2M41 63h1M233 63h1M39 64h2M234 64h2M38 65h1M236 65h1M36 66h2M237 66h2M35 67h1M239 67h1M33 68h2M240 68h2M32 69h1M242 69h1M30 70h2M243 70h2M29 71h1M245 71h1M27 72h2M246 72h2M26 73h1M248 73h1M24 74h2M249 74h2M23 75h1M251 75h1M21 76h2M252 76h2M20 77h1M254 77h1M18 78h2M255 78h2M17 79h1M257 79h1M15 80h2M258 80h2M14 81h1M260 81h1M12 82h2M261 82h2M11 83h1M263 83h1M9 84h2M264 84h2M8 85h1M266 85h1M6 86h2M267 86h2M5 87h1M269 87h1M3 88h2M270 88h2M2 89h1M272 89h1M0 90h2M273 90h2\"></path><path stroke=\"\\#f0eadc\" d=\"M135 1h5M134 2h7M132 3h11M131 4h13M129 5h17M128 6h19M126 7h23M125 8h25M123 9h29M122 10h13M140 10h13M120 11h14M141 11h14M119 12h13M143 12h13M117 13h14M144 13h14M116 14h13M146 14h13M114 15h14M147 15h14M113 16h13M149 16h13M111 17h14M150 17h14M110 18h13M152 18h13M108 19h14M153 19h14M107 20h13M155 20h13M105 21h14M156 21h14M104 22h13M158 22h13M102 23h14M159 23h14M101 24h13M161 24h13M99 25h14M162 25h14M98 26h13M164 26h13M96 27h14M165 27h14M95 28h13M167 28h13M93 29h14M168 29h14M92 30h13M170 30h13M90 31h14M171 31h14M89 32h13M173 32h13M87 33h14M174 33h14M86 34h13M176 34h13M84 35h14M177 35h14M83 36h13M179 36h13M81 37h14M180 37h14M80 38h13M182 38h13M78 39h14M183 39h14M77 40h13M185 40h13M75 41h14M186 41h14M74 42h13M188 42h13M72 43h14M189 43h14M71 44h13M191 44h13M69 45h14M192 45h14M68 46h13M194 46h13M66 47h14M195 47h14M65 48h13M197 48h13M63 49h14M198 49h14M62 50h13M200 50h13M60 51h14M201 51h14M59 52h13M203 52h13M57 53h14M204 53h14M56 54h13M206 54h13M54 55h14M207 55h14M53 56h13M209 56h13M51 57h14M210 57h14M50 58h13M212 58h13M48 59h14M213 59h14M47 60h13M215 60h13M45 61h14M216 61h14M44 62h13M218 62h13M42 63h14M219 63h14M41 64h13M221 64h13M39 65h14M222 65h14M38 66h13M224 66h13M36 67h14M225 67h14M35 68h13M227 68h13M33 69h14M228 69h14M32 70h13M230 70h13M30 71h14M231 71h14M29 72h13M233 72h13M27 73h14M234 73h14M26 74h13M236 74h13M24 75h14M237 75h14M23 76h13M239 76h13M21 77h14M240 77h14M20 78h13M242 78h13M18 79h14M243 79h14M17 80h13M245 80h13M15 81h14M246 81h14M14 82h13M248 82h13M12 83h14M249 83h14M11 84h13M251 84h13M9 85h14M252 85h14M8 86h13M254 86h13M6 87h14M255 87h14M5 88h13M257 88h13M3 89h14M258 89h14M2 90h13M260 90h13\"></path></g></g></g></g></g></g> </svg>}",
+	"origin": "#preface# #[bg_color:#background_color#]background# <g transform=\"translate(109, 106)\">#house#</g> #ending#",
 
 	"ending":"</svg>}",
 
-	"preface":"{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"500\" width=\"500\" viewBox=\"0 0 500 500\" rendering=\"crispEdges\">",
-	"bg":"<rect x=\"0\" y=\"0\" width=\"500\" height=\"499\" fill=\"\\##bg_color#\" /><rect x=\"1\" y=\"499\" width=\"500\" height=\"1\" fill=\"\\##bg_color#\" />",
+	"preface":"{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" height=\"500\" width=\"500\" viewBox=\"0 0 250 250\" rendering=\"crispEdges\">",
 
-	"set_bg_color": [
-		"[bg_color:DDDDFF]",
-		"[bg_color:DDF2FF]",
-		"[bg_color:FFE1FF]",
-		"[bg_color:F3FFC4]",
-		"[bg_color:B8FFD6]"
-	],
+	"background":"<rect x=\"0\" y=\"0\" width=\"250\" height=\"249\" fill=\"\\##bg_color#\" /><rect x=\"1\" y=\"249\" width=\"250\" height=\"1\" fill=\"\\##bg_color#\" />",
+	"background_color": ["FFAACC", "FFBBCC", "FFCCCC", "FFDDCC", "FFEECC", "FFFFCC", "FFAADD", "FFBBDD", "FFCCDD", "FFDDDD", "FFEEDD", "FFFFDD", "FFAAEE", "FFBBEE", "FFCCEE", "FFDDEE", "FFEEEE", "FFFFEE", "FFAAFF", "FFBBFF", "FFCCFF", "FFDDFF", "CCAAFF", "CCBBFF", "CCCCFF", "CCDDFF", "CCEEFF", "CCFFFF", "CCAAEE", "CCBBEE", "CCCCEE", "CCDDEE", "CCEEEE", "CCFFEE", "CCAADD", "CCBBDD", "CCCCDD", "CCDDDD", "CCEEDD", "CCFFDD", "CCAACC", "CCBBCC", "CCDDCC", "CCEECC", "CCFFCC"],
 
-	"set_house_colors": [
-		"[body_light_color:bbaf9b][body_mid_color:a6967c][body_dark_color:8f7e61][trim_light_color:f9f6f0][trim_mid_color:ece1cb][trim_dark_color:dccba7][accent_1_light_color:841915][accent_1_mid_color:57100e][accent_1_dark_color:2c0807][accent_2_light_color:49494b][accent_2_mid_color:2f2f30][accent_2_dark_color:171717]",
+	"house": "#door#",
 
-		"[body_light_color:c5c7c9][body_mid_color:acafb1][body_dark_color:909498][trim_light_color:ffffff][trim_mid_color:eaeaea][trim_dark_color:d1d1c7][accent_1_light_color:a0b6ad][accent_1_mid_color:84a195][accent_1_dark_color:68877a][accent_2_light_color:222222][accent_2_mid_color:444444][accent_2_dark_color:000000]",
+	"door": "<g>#door_trim# <g transform=\"translate(1, 1)\">#door_back#</g></g>",
 
-		"[body_light_color:8e8a7b][body_mid_color:a6a397][body_dark_color:8e8a7b][trim_light_color:8f8b76][trim_mid_color:73705e][trim_dark_color:575447][accent_1_light_color:ffffff][accent_1_mid_color:f0eadb][accent_1_dark_color:e1d5b7][accent_2_light_color:726e5f][accent_2_mid_color:565348][accent_2_dark_color:3a3831]",
-
-		"[body_light_color:d0d2d2][body_mid_color:b4b9b9][body_dark_color:9ca0a0][trim_light_color:ffffff][trim_mid_color:edece6][trim_dark_color:d8d6ca][accent_1_light_color:f5dbb7][accent_1_mid_color:efc488][accent_1_dark_color:e9af5d][accent_2_light_color:93999f][accent_2_mid_color:777f86][accent_2_dark_color:60666c]",
-
-		"[body_light_color:69808c][body_mid_color:546670][body_dark_color:3d4a51][trim_light_color:ffffff][trim_mid_color:f0eadc][trim_dark_color:e0d4b8][accent_1_light_color:e4c5a5][accent_1_mid_color:d9ad7f][accent_1_dark_color:cd9156][accent_2_light_color:b27d57][accent_2_mid_color:946644][accent_2_dark_color:704d33]",
-
-		"[body_light_color:f6f0e5][body_mid_color:e8d9bd][body_dark_color:dcc498][trim_light_color:ffffff][trim_mid_color:f0eadc][trim_dark_color:e0d4b8][accent_1_light_color:897072][accent_1_mid_color:6d595a][accent_1_dark_color:514344][accent_2_light_color:b08b63][accent_2_mid_color:96724c][accent_2_dark_color:73583a]"
-	],
-
-	"set_hardware_colors": [
-		"[hardwareLightColor:f8f0c1][hardwareMidColor:e5c656][hardwareDarkColor: 6c4609]",
-		"[hardwareLightColor:cfcac4][hardwareMidColor:a29b91][hardwareDarkColor:666666]",
-		"[hardwareLightColor:e4a96e][hardwareMidColor:9c5d38][hardwareDarkColor:453e36]",
-		"[hardwareLightColor:999999][hardwareMidColor:666666][hardwareDarkColor:000000]"
-	],
-
-	"window_color": "cbdbfc",
-	"window_opacity": "0.7",
-	"interior_color": "5b6ee1",
-
-	"door_width": "35",
-	"door_height": "64",
-	"door_back_color": "#accent_1_mid_color#",
-
-
-
-	"=== STARTING OVER START ===": "",
-	"house_width": "245",
-
-	"body_base_first_floor_shape": "<rect x=\"0\" y=\"90\" width=\"#house_width#\" height=\"79\" fill=\"white\" />",
-	"body_base_second_floor_shape": "<g transform=\"translate(-15, 0)\">#roof_pointed_background#</g>",
-
-	"body_exterior_color_and_texture": "<rect x=\"0\" y=\"0\" height=\"499\" width=\"500\" fill=\"\\##body_mid_color#\" /> #body_exterior_texture#",
-
-	"body_exterior_texture": [
-		" #siding_texture#",
-		"#siding_detailed_texture#",
-		"#singles_texture#"
-	],
-
-	"roof_pointed_background": "<path stroke=\"white\" d=\"M135 10h5M134 11h7M132 12h11M131 13h13M129 14h17M128 15h19M126 16h23M125 17h25M123 18h29M122 19h31M120 20h35M119 21h37M117 22h41M116 23h43M114 24h47M113 25h49M111 26h53M110 27h55M108 28h59M107 29h61M105 30h65M104 31h67M102 32h71M101 33h73M99 34h77M98 35h79M96 36h83M95 37h85M93 38h89M92 39h91M90 40h95M89 41h97M87 42h101M86 43h103M84 44h107M83 45h109M81 46h113M80 47h115M78 48h119M77 49h121M75 50h125M74 51h127M72 52h131M71 53h133M69 54h137M68 55h139M66 56h143M65 57h145M63 58h149M62 59h151M60 60h155M59 61h157M57 62h161M56 63h163M54 64h167M53 65h169M51 66h173M50 67h175M48 68h179M47 69h181M45 70h185M44 71h187M42 72h191M41 73h193M39 74h197M38 75h199M36 76h203M35 77h205M33 78h209M32 79h211M30 80h215M29 81h217M27 82h221M26 83h223M24 84h227M23 85h229M21 86h233M20 87h235M18 88h239M17 89h241M15 90h245\" />",
-
-	"body_base_mask": "<mask id=\"base_mask\">#body_base_first_floor_shape# #body_base_second_floor_shape#</mask> #body_base#",
-	"body_base": "<g mask=\"url(\\#base_mask)\">#body_exterior_color_and_texture#</g>",
-
-	"house": "#body_base_mask# #body_facade#",
-
-	"body_facade": "#roof_pointed_trim# <g transform=\"translate(0, 90)\">#porch#</g>",
-	"=== STARTING OVER END ===": "",
-
-
+	"door_trim__": "<rect x=\"-1\" y=\"-1\" width=\"100\" height=\"1\" fill=\"white\" />",
 	
+	"door_back": [
+		"#door__full__three_small_windows#",
+		"#door__full__oval_windowed#",
+		"#door__full__oval_solid#",
+		"#door__full__two_column_rounded_windowed#",
+		"#door__full__two_column_windowed#",
+		"#door__full__rounded_windowed#",
+		"#door__full__two_column_rounded_solid#",
+		"#door__full__two_column_solid#",
+		"#door__full__rounded_solid#",
+		"#door__full__windowed#",
 
-	"set_door_detail_color": [
-		"[door_detail_color:#accent_1_dark_color#]",
-		"[door_detail_color:#accent_1_light_color#]"
-	],
-
-	"house_exterior_texture_mask": "<g mask=\"url(\\##exterior_texture_mask_id#)\"> <rect x=\"0\" y=\"0\" height=\"499\" width=\"500\" fill=\"\\##body_mid_color#\" /> #roof_pointed_background# #house_exterior_texture# </g>",
-	
-	"porch__": " <g transform=\"translate(0, 78)\"><g transform=\"translate(-15, -90)\">#roof_pointed_large#</g> <g transform=\"translate(-15, -45)\">#roof_pointed_large#</g> #porch_background# #porch_foreground# </g>",
-	"porch_background": "<mask id=\"porch_exterior_texture_mask\"><rect x=\"0\" y=\"0\" width=\"#house_width#\" height=\"79\" fill=\"white\" /></mask> #[exterior_texture_mask_id:porch_exterior_texture_mask]house_exterior_texture_mask#",
-
-	"siding_texture": "<path stroke=\"\\##body_dark_color#\" d=\"M0 5h500M0 11h500M0 17h500M0 23h500M0 29h500M0 35h500M0 41h500M0 47h500M0 53h500M0 59h500M0 65h500M0 71h500M0 77h500M0 83h500M0 89h500M0 95h500M0 101h500M0 107h500M0 113h500M0 119h500M0 125h500M0 131h500M0 137h500M0 143h500M0 149h500M0 155h500M0 161h500M0 167h500M0 173h500M0 179h500M0 185h500M0 191h500M0 197h500M0 203h500M0 209h500M0 215h500M0 221h500M0 227h500M0 233h500M0 239h500M0 245h500M0 251h500M0 257h500M0 263h500M0 269h500M0 275h500M0 281h500M0 287h500M0 293h500M0 299h500M0 305h500M0 311h500M0 317h500M0 323h500M0 329h500M0 335h500M0 341h500M0 347h500M0 353h500M0 359h500M0 365h500M0 371h500M0 377h500M0 383h500M0 389h500M0 395h500M0 401h500M0 407h500M0 413h500M0 419h500M0 425h500M0 431h500M0 437h500M0 443h500M0 449h500M0 455h500M0 461h500M0 467h500M0 473h500M0 479h500M0 485h500M0 491h500M0 497h500\" />",
-
-	"siding_detailed_texture": "<path stroke=\"\\##body_dark_color#\" d=\"M0 5h500M0 7h500M0 13h500M0 15h500M0 21h500M0 23h500M0 29h500M0 31h500M0 37h500M0 39h500M0 45h500M0 47h500M0 53h500M0 55h500M0 61h500M0 63h500M0 69h500M0 71h500M0 77h500M0 79h500M0 85h500M0 87h500M0 93h500M0 95h500M0 101h500M0 103h500M0 109h500M0 111h500M0 117h500M0 119h500M0 125h500M0 127h500M0 133h500M0 135h500M0 141h500M0 143h500M0 149h500M0 151h500M0 157h500M0 159h500M0 165h500M0 167h500M0 173h500M0 175h500M0 181h500M0 183h500M0 189h500M0 191h500M0 197h500M0 199h500M0 205h500M0 207h500M0 213h500M0 215h500M0 221h500M0 223h500M0 229h500M0 231h500M0 237h500M0 239h500M0 245h500M0 247h500M0 253h500M0 255h500M0 261h500M0 263h500M0 269h500M0 271h500M0 277h500M0 279h500M0 285h500M0 287h500M0 293h500M0 295h500M0 301h500M0 303h500M0 309h500M0 311h500M0 317h500M0 319h500M0 325h500M0 327h500M0 333h500M0 335h500M0 341h500M0 343h500M0 349h500M0 351h500M0 357h500M0 359h500M0 365h500M0 367h500M0 373h500M0 375h500M0 381h500M0 383h500M0 389h500M0 391h500M0 397h500M0 399h500M0 405h500M0 407h500M0 413h500M0 415h500M0 421h500M0 423h500M0 429h500M0 431h500M0 437h500M0 439h500M0 445h500M0 447h500M0 453h500M0 455h500M0 461h500M0 463h500M0 469h500M0 471h500M0 477h500M0 479h500M0 485h500M0 487h500M0 493h500M0 495h500\" />",
-
-	"roof_pointed_trim": "<g transform=\"translate(-15, 0)\"><path stroke=\"\\#000000\" d=\"M135 0h5M134 1h1M140 1h1M132 2h2M141 2h2M131 3h1M143 3h1M129 4h2M144 4h2M128 5h1M146 5h1M126 6h2M147 6h2M125 7h1M149 7h1M123 8h2M150 8h2M122 9h1M152 9h1M120 10h2M153 10h2M119 11h1M155 11h1M117 12h2M156 12h2M116 13h1M158 13h1M114 14h2M159 14h2M113 15h1M161 15h1M111 16h2M162 16h2M110 17h1M164 17h1M108 18h2M165 18h2M107 19h1M167 19h1M105 20h2M168 20h2M104 21h1M170 21h1M102 22h2M171 22h2M101 23h1M173 23h1M99 24h2M174 24h2M98 25h1M176 25h1M96 26h2M177 26h2M95 27h1M179 27h1M93 28h2M180 28h2M92 29h1M182 29h1M90 30h2M183 30h2M89 31h1M185 31h1M87 32h2M186 32h2M86 33h1M188 33h1M84 34h2M189 34h2M83 35h1M191 35h1M81 36h2M192 36h2M80 37h1M194 37h1M78 38h2M195 38h2M77 39h1M197 39h1M75 40h2M198 40h2M74 41h1M200 41h1M72 42h2M201 42h2M71 43h1M203 43h1M69 44h2M204 44h2M68 45h1M206 45h1M66 46h2M207 46h2M65 47h1M209 47h1M63 48h2M210 48h2M62 49h1M212 49h1M60 50h2M213 50h2M59 51h1M215 51h1M57 52h2M216 52h2M56 53h1M218 53h1M54 54h2M219 54h2M53 55h1M221 55h1M51 56h2M222 56h2M50 57h1M224 57h1M48 58h2M225 58h2M47 59h1M227 59h1M45 60h2M228 60h2M44 61h1M230 61h1M42 62h2M231 62h2M41 63h1M233 63h1M39 64h2M234 64h2M38 65h1M236 65h1M36 66h2M237 66h2M35 67h1M239 67h1M33 68h2M240 68h2M32 69h1M242 69h1M30 70h2M243 70h2M29 71h1M245 71h1M27 72h2M246 72h2M26 73h1M248 73h1M24 74h2M249 74h2M23 75h1M251 75h1M21 76h2M252 76h2M20 77h1M254 77h1M18 78h2M255 78h2M17 79h1M257 79h1M15 80h2M258 80h2M14 81h1M260 81h1M12 82h2M261 82h2M11 83h1M263 83h1M9 84h2M264 84h2M8 85h1M266 85h1M6 86h2M267 86h2M5 87h1M269 87h1M3 88h2M270 88h2M2 89h1M272 89h1M0 90h2M273 90h2\" /><path stroke=\"\\##trim_mid_color#\" d=\"M135 1h5M134 2h7M132 3h11M131 4h13M129 5h17M128 6h19M126 7h23M125 8h25M123 9h29M122 10h13M140 10h13M120 11h14M141 11h14M119 12h13M143 12h13M117 13h14M144 13h14M116 14h13M146 14h13M114 15h14M147 15h14M113 16h13M149 16h13M111 17h14M150 17h14M110 18h13M152 18h13M108 19h14M153 19h14M107 20h13M155 20h13M105 21h14M156 21h14M104 22h13M158 22h13M102 23h14M159 23h14M101 24h13M161 24h13M99 25h14M162 25h14M98 26h13M164 26h13M96 27h14M165 27h14M95 28h13M167 28h13M93 29h14M168 29h14M92 30h13M170 30h13M90 31h14M171 31h14M89 32h13M173 32h13M87 33h14M174 33h14M86 34h13M176 34h13M84 35h14M177 35h14M83 36h13M179 36h13M81 37h14M180 37h14M80 38h13M182 38h13M78 39h14M183 39h14M77 40h13M185 40h13M75 41h14M186 41h14M74 42h13M188 42h13M72 43h14M189 43h14M71 44h13M191 44h13M69 45h14M192 45h14M68 46h13M194 46h13M66 47h14M195 47h14M65 48h13M197 48h13M63 49h14M198 49h14M62 50h13M200 50h13M60 51h14M201 51h14M59 52h13M203 52h13M57 53h14M204 53h14M56 54h13M206 54h13M54 55h14M207 55h14M53 56h13M209 56h13M51 57h14M210 57h14M50 58h13M212 58h13M48 59h14M213 59h14M47 60h13M215 60h13M45 61h14M216 61h14M44 62h13M218 62h13M42 63h14M219 63h14M41 64h13M221 64h13M39 65h14M222 65h14M38 66h13M224 66h13M36 67h14M225 67h14M35 68h13M227 68h13M33 69h14M228 69h14M32 70h13M230 70h13M30 71h14M231 71h14M29 72h13M233 72h13M27 73h14M234 73h14M26 74h13M236 74h13M24 75h14M237 75h14M23 76h13M239 76h13M21 77h14M240 77h14M20 78h13M242 78h13M18 79h14M243 79h14M17 80h13M245 80h13M15 81h14M246 81h14M14 82h13M248 82h13M12 83h14M249 83h14M11 84h13M251 84h13M9 85h14M252 85h14M8 86h13M254 86h13M6 87h14M255 87h14M5 88h13M257 88h13M3 89h14M258 89h14M2 90h13M260 90h13\" /></g>",
-
-	"porch_door_y_position": "15",
-	"porch_door_x_position_1": "35",
-	"porch_door_x_position_2": "70",
-	"porch_door_x_position_3": "105",
-	"porch_door_x_position_4": "140",
-	"porch_door_x_position_5": "175",
-
-	"porch_door_position_1": "<g transform=\"translate(#porch_door_x_position_1#, #porch_door_y_position#)\">#door#</g>",
-	"porch_door_position_2": "<g transform=\"translate(#porch_door_x_position_2#, #porch_door_y_position#)\">#door#</g>",
-	"porch_door_position_3": "<g transform=\"translate(#porch_door_x_position_3#, #porch_door_y_position#)\">#door#</g>",
-	"porch_door_position_4": "<g transform=\"translate(#porch_door_x_position_4#, #porch_door_y_position#)\">#door#</g>",
-	"porch_door_position_5": "<g transform=\"translate(#porch_door_x_position_5#, #porch_door_y_position#)\">#door#</g>",
-
-	"porch_column_position_1": "-5",
-	"porch_column_position_2": "30",
-	"porch_column_position_3": "65",
-	"porch_column_position_4": "100",
-	"porch_column_position_5": "135",
-	"porch_column_position_6": "170",
-	"porch_column_position_7": "205",
-	"porch_column_position_8": "240",
-
-	"porch_shadow_position_1": "0",
-	"porch_shadow_position_2": "35",
-	"porch_shadow_position_3": "70",
-	"porch_shadow_position_4": "105",
-	"porch_shadow_position_5": "140",
-
-	"porch": [
-		"#porch_small#",
-		"#porch_medium#",
-		"#porch_full#"
-	],
-
-	"porch_roof_trim_mask": "<rect height=\"45\" width=\"500\" />",
-	"porch_small_clip": "<clipPath id=\"porch_small_clip\"><rect x=\"0\" y=\"0\" width=\"300\" height=\"45\" /></clipPath>",
-	"porch_medium_clip": "<clipPath id=\"porch_medium_clip\"><rect x=\"0\" y=\"0\" width=\"300\" height=\"69\" /></clipPath>",
-
-	"porch_roof_trim": "#roof_pointed_trim#",
-	"porch_roof_trim_small": "#porch_small_clip# <g clip-path=\"url(\\#porch_small_clip)\">#roof_pointed_trim#</g>",
-	"porch_roof_trim_medium": "#porch_medium_clip# <g clip-path=\"url(\\#porch_medium_clip)\">#roof_pointed_trim#</g>",
-
-	"porch_small_x_position": ["0", "65", "136"],
-
-	
-	"porch_small": [
-		"<g transform=\"translate(#porch_small_x_position#, 0)\">#porch_door_position_1# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_small#</g> #porch_columns_small# <g transform=\"translate(-68, -45)\">#porch_roof_trim_small#</g></g>"
-	],
-
-	"porch_medium_x_position": ["0", "32", "64"],
-
-	"porch_medium": [
-		"<g transform=\"translate(#porch_medium_x_position#, 0)\">#porch_door_position_1# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_medium#</g> #porch_columns_medium_left_door_left# <g transform=\"translate(-32, -69)\">#porch_roof_trim_medium#</g></g>",
-		"<g transform=\"translate(#porch_medium_x_position#, 0)\">#porch_door_position_2# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_medium#</g> #porch_columns_medium_left_door_middle# <g transform=\"translate(-32, -69)\">#porch_roof_trim_medium#</g></g>",
-		"<g transform=\"translate(#porch_medium_x_position#, 0)\">#porch_door_position_3# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_medium#</g> #porch_columns_medium_left_door_right# <g transform=\"translate(-32, -69)\">#porch_roof_trim_medium#</g></g>"
-	],
-
-	"porch_full": [
-		"#porch_door_position_1# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_full#</g> #porch_columns_full_position_1#",
-		"#porch_door_position_2# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_full#</g> #porch_columns_full_position_2#",
-		"#porch_door_position_3# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_full#</g> #porch_columns_full_position_3#",
-		"#porch_door_position_4# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_full#</g> #porch_columns_full_position_4#",
-		"#porch_door_position_5# <g transform=\"translate(#porch_column_position_1#, 0)\">#porch_shadow_full#</g> #porch_columns_full_position_5#"
-	],
-
-	"porch_shadow_color": "000000",
-	"porch_shadow_opacity": "0.1",
-
-	"porch_trim_small": "<rect x=\"-2\" y=\"-1\" height=\"1\" width=\"119\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-3\" y=\"-2\" height=\"1\" width=\"121\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-4\" y=\"-3\" height=\"1\" width=\"123\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-5\" y=\"-4\" height=\"1\" width=\"125\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-6\" y=\"-5\" height=\"1\" width=\"127\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-7\" y=\"-6\" height=\"1\" width=\"129\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-7\" height=\"1\" width=\"131\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-8\" height=\"1\" width=\"131\"  fill=\"\\##trim_mid_color#\" />",
-	"porch_trim_medium": "<rect x=\"-2\" y=\"-1\" height=\"1\" width=\"189\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-3\" y=\"-2\" height=\"1\" width=\"191\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-4\" y=\"-3\" height=\"1\" width=\"193\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-5\" y=\"-4\" height=\"1\" width=\"195\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-6\" y=\"-5\" height=\"1\" width=\"197\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-7\" y=\"-6\" height=\"1\" width=\"199\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-7\" height=\"1\" width=\"201\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-8\" height=\"1\" width=\"201\"  fill=\"\\##trim_mid_color#\" />",
-	"porch_trim_full": "<rect x=\"-2\" y=\"-1\" height=\"1\" width=\"259\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-3\" y=\"-2\" height=\"1\" width=\"261\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-4\" y=\"-3\" height=\"1\" width=\"263\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-5\" y=\"-4\" height=\"1\" width=\"265\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-6\" y=\"-5\" height=\"1\" width=\"267\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-7\" y=\"-6\" height=\"1\" width=\"269\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-7\" height=\"1\" width=\"271\"  fill=\"\\##trim_mid_color#\" /><rect x=\"-8\" y=\"-8\" height=\"1\" width=\"271\"  fill=\"\\##trim_mid_color#\" />",
-
-	"porch_shadow_small": "<path stroke=\"\\##porch_shadow_color#\" opacity=\"#porch_shadow_opacity#\" d=\"M0 0h106M1 1h106M2 2h106M3 3h106M4 4h106M5 5h106M6 6h106M7 7h106M8 8h106M9 9h106M10 10h106M11 11h106M12 12h106M13 13h106M14 14h106M15 15h106M16 16h106M17 17h106M18 18h106M19 19h106M20 20h106M21 21h106M22 22h106M23 23h106M24 24h106M25 25h106M26 26h106M27 27h106M28 28h106M29 29h106M30 30h106M31 31h106M32 32h106M33 33h106M34 34h106M35 35h106M36 36h106M37 37h106M38 38h106M39 39h106M40 40h106M41 41h106M42 42h106M43 43h106M44 44h106M45 45h106M46 46h106M47 47h106M48 48h106M49 49h106M50 50h106M51 51h106M52 52h106M53 53h106M54 54h106M55 55h106M56 56h106M57 57h106M58 58h106M59 59h106M60 60h106M61 61h106M62 62h106M63 63h106M64 64h106M65 65h106M66 66h106M67 67h106M68 68h106M69 69h106M70 70h106M71 71h106M72 72h106M73 73h106M74 74h106M75 75h106M76 76h106M77 77h106M78 78h106\" />",
-
-	"porch_shadow_medium": "<path stroke=\"\\##porch_shadow_color#\" opacity=\"#porch_shadow_opacity#\" d=\"M0 0h187M1 1h187M2 2h187M3 3h187M4 4h187M5 5h187M6 6h187M7 7h187M8 8h187M9 9h187M10 10h187M11 11h187M12 12h187M13 13h187M14 14h187M15 15h187M16 16h187M17 17h187M18 18h187M19 19h187M20 20h187M21 21h187M22 22h187M23 23h187M24 24h187M25 25h187M26 26h187M27 27h187M28 28h187M29 29h187M30 30h187M31 31h187M32 32h187M33 33h187M34 34h187M35 35h187M36 36h187M37 37h187M38 38h187M39 39h187M40 40h187M41 41h187M42 42h187M43 43h187M44 44h187M45 45h187M46 46h187M47 47h187M48 48h187M49 49h187M50 50h187M51 51h187M52 52h187M53 53h187M54 54h187M55 55h187M56 56h187M57 57h187M58 58h187M59 59h187M60 60h187M61 61h187M62 62h187M63 63h187M64 64h187M65 65h187M66 66h187M67 67h187M68 68h187M69 69h187M70 70h187M71 71h187M72 72h187M73 73h187M74 74h187M75 75h187M76 76h187M77 77h187M78 78h187\" />",
-
-	"porch_shadow_full": "<path stroke=\"\\##porch_shadow_color#\" opacity=\"#porch_shadow_opacity#\" d=\"M0 0h245M1 1h245M2 2h245M3 3h245M4 4h245M5 5h245M6 6h245M7 7h245M8 8h245M9 9h245M10 10h245M11 11h245M12 12h245M13 13h245M14 14h245M15 15h245M16 16h245M17 17h245M18 18h245M19 19h245M20 20h245M21 21h245M22 22h245M23 23h245M24 24h245M25 25h245M26 26h245M27 27h245M28 28h245M29 29h245M30 30h245M31 31h245M32 32h245M33 33h245M34 34h245M35 35h245M36 36h245M37 37h245M38 38h245M39 39h245M40 40h245M41 41h245M42 42h245M43 43h245M44 44h245M45 45h245M46 46h245M47 47h245M48 48h245M49 49h245M50 50h245M51 51h245M52 52h245M53 53h245M54 54h245M55 55h245M56 56h245M57 57h245M58 58h245M59 59h245M60 60h245M61 61h245M62 62h245M63 63h245M64 64h245M65 65h245M66 66h245M67 67h245M68 68h245M69 69h245M70 70h245M71 71h245M72 72h245M73 73h245M74 74h245M75 75h245M76 76h245M77 77h245M78 78h245\" />",
-
-	"===== PORCH COLUMNS SMALL -- START =====": "",
-	"porch_columns_small": "<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g>",
-	"===== PORCH COLUMNS SMALL -- END =====": "",
-
-	"===== PORCH COLUMNS MEDIUM -- START =====": "",
-	"----- left start -----": "",
-	"porch_columns_medium_left_door_left": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_medium_left_door_middle": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_medium_left_door_right": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g>"
-	],
-	"----- left end -----": "",
-
-	"----- middle start -----": "",
-	"porch_columns_medium_middle_door_left": [
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_medium_middle_door_middle": [
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_medium_middle_door_right": [
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g>"
-	],
-	"----- middle end -----": "",
-
-	"----- right start -----": "",
-		"porch_columns_medium_right_door_left": [
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-		],
-
-		"porch_columns_medium_right_door_middle": [
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-		],
-
-		"porch_columns_medium_right_door_right": [
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-			"<g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-		],
-	"----- right end -----": "",
-	"===== PORCH COLUMNS MEDIUM -- END =====": "",
-
-
-	"===== PORCH COLUMNS FULL -- START =====": "",
-	"porch_columns_full_position_1": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_full_position_2": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_full_position_3": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_6#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_2#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_full_position_4": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_4#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_7#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-	],
-
-	"porch_columns_full_position_5": [
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>",
-		"<g transform=\"translate(#porch_column_position_1#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_3#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_5#, 0)\">#porch_column_full#</g><g transform=\"translate(#porch_column_position_8#, 0)\">#porch_column_full#</g>"
-	],
-	"===== PORCH COLUMNS FULL -- END =====": "",
-
-	
-
-	"porch_column_full": ["#porch_column_full__square#"],
-
-	"porch_column_full__square": "<rect x=\"0\" y=\"0\" width=\"10\" height=\"79\" fill=\"\\##trim_mid_color#\" /><rect x=\"-2\" y=\"0\" width=\"14\" height=\"2\" fill=\"\\##trim_mid_color#\" /><rect x=\"-2\" y=\"77\" width=\"14\" height=\"2\" fill=\"\\##trim_mid_color#\" /><rect x=\"0\" y=\"0\" width=\"12\" height=\"1\" fill=\"\\##trim_dark_color#\" /><rect x=\"2\" y=\"2\" width=\"8\" height=\"1\" fill=\"\\##trim_dark_color#\" /><rect x=\"9\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\##trim_dark_color#\" /><rect x=\"11\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\##trim_dark_color#\" /><rect x=\"11\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\##trim_dark_color#\" /><rect x=\"0\" y=\"2\" width=\"1\" height=\"75\" fill=\"\\##trim_light_color#\" /><rect x=\"-2\" y=\"0\" width=\"1\" height=\"2\" fill=\"\\##trim_light_color#\" /><rect x=\"-2\" y=\"77\" width=\"1\" height=\"2\" fill=\"\\##trim_light_color#\" /><rect x=\"-2\" y=\"77\" width=\"12\" height=\"1\" fill=\"\\##trim_light_color#\" />",
-
-	
-
-	"door_trim": ["#door_trim_thick#", "#door_trim_medium#", "#door_trim_thin#"],
-	
-	"door_trim_thick": "<rect x=\"-6\" y=\"-6\" width=\"47\" height=\"70\" fill=\"\\##trim_light_color#\" /><rect x=\"-4\" y=\"-4\" width=\"43\" height=\"68\" fill=\"\\##trim_dark_color#\" /><rect x=\"-3\" y=\"-3\" width=\"41\" height=\"67\" fill=\"\\##trim_mid_color#\" /><rect x=\"-2\" y=\"-2\" width=\"39\" height=\"66\" fill=\"\\##trim_dark_color#\" /><rect x=\"-1\" y=\"-1\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
-	"door_trim_medium": "<rect x=\"-3\" y=\"-3\" width=\"41\" height=\"67\" fill=\"\\##trim_mid_color#\" /><rect x=\"-2\" y=\"-2\" width=\"39\" height=\"66\" fill=\"\\##trim_dark_color#\" /><rect x=\"-1\" y=\"-1\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
-	"door_trim_thin": "<rect x=\"-1\" y=\"-1\" width=\"37\" height=\"65\" fill=\"\\##trim_mid_color#\" />",
-
-	"door": "<g>#door_trim# #door_back# #door_hardware#</g>",
-	"door_back": "<rect x=\"0\" y=\"0\" width=\"#door_width#\" height=\"#door_height#\" fill=\"\\##door_back_color#\" /> #[#set_door_detail_color#]door_layout#",
-
-	"===== DOOR WINDOWS MASK START =====": [],
-	"door_window_mask": "<g mask=\"url(\\##door_window_mask_id#)\"> <rect x=\"0\" y=\"0\" width=\"#door_width#\" height=\"#door_height#\" fill=\"\\##interior_color#\" /> #door_window_curtain# <rect x=\"0\" y=\"0\" width=\"#door_width#\" height=\"#door_height#\" fill=\"\\##window_color#\" opacity=\"#window_opacity#\" /></g>",
-	"door_window_curtain": "<g transform=\"translate(0, #door_window_curtain_y#)\"><rect x=\"0\" y=\"0\" width=\"#door_width#\" height=\"#door_height#\" fill=\"white\" /> #door_window_curtain_shadow#</g>",
-
-	"door_window_curtain_y": ["3", "15"],
-	"door_window_curtain_shadow_color": "000000",
-	"door_window_curtain_shadow_opacity": "0.25",
-	"door_window_curtain_shadow": "<path stroke=\"\\##door_window_curtain_shadow_color#\" opacity=\"#door_window_curtain_shadow_opacity#\" d=\"M1 0h1M4 0h2M9 0h1M13 0h2M18 0h1M20 0h1M24 0h1M27 0h1M29 0h1M33 0h2M1 3h1M4 3h2M9 3h1M13 3h2M18 3h1M20 3h1M24 3h1M27 3h1M29 3h1M33 3h2M1 4h1M4 4h2M9 4h1M13 4h2M18 4h1M20 4h1M24 4h1M27 4h1M29 4h1M33 4h2M1 5h1M4 5h2M9 5h1M13 5h2M18 5h1M20 5h1M24 5h1M27 5h1M29 5h1M33 5h2M1 6h1M4 6h2M9 6h1M14 6h1M18 6h1M20 6h1M24 6h1M29 6h1M33 6h1M1 7h1M4 7h2M9 7h1M14 7h1M18 7h1M24 7h1M27 7h1M29 7h1M33 7h1M1 8h1M4 8h2M9 8h1M14 8h1M24 8h1M27 8h1M29 8h1M33 8h1M1 9h1M4 9h1M9 9h1M14 9h1M20 9h1M24 9h1M29 9h1M33 9h1M1 10h1M4 10h1M9 10h1M14 10h1M18 10h1M24 10h1M27 10h1M29 10h1M33 10h1M1 11h1M4 11h1M14 11h1M24 11h1M29 11h1M1 12h1M4 12h1M14 12h1M24 12h1M29 12h1M1 13h1M4 13h1M14 13h1M24 13h1M29 13h1M1 14h1M4 14h1M9 14h1M14 14h1M24 14h1M29 14h1M33 14h1M4 15h1M29 15h1M1 16h1M4 16h1M29 16h1M4 17h1M14 17h1M29 17h1M4 18h1M29 18h1M4 19h1M24 19h1M29 19h1M4 20h1M29 20h1M29 23h1M29 24h1M29 28h1\" />",
-	"===== DOOR WINDOWS MASK END =====": [],
-
-	"===== DOOR LAYOUTS START =====": [],
-	"door_layout": [
-		"#door_layout_1/4_3/4#",
-		"#door_layout_1/2_1/2#",
-		"#door_layout_full#"
-	],
-
-	"door_layout_1/4_3/4": [
-		"#door_layout_top_1/4__windowed# #door_layout_bottom_3/4__windowed#",
-		"#door_layout_top_1/4__windowed# #door_layout_bottom_3/4#",
-		"#door_layout_top_1/4# #door_layout_bottom_3/4#"
-	],
-
-	"door_layout_top_1/4": [
-		"#door_layout_top_1/4__narrow_slats#",
-		"#door_layout_top_1/4__row#",
-		"#door_layout_top_1/4__two_column_row#",
-		"#door_layout_top_1/4__half_circle#"
-	],
-
-	"door_layout_top_1/4__windowed": [
-		"#door_layout_top_1/4__narrow_slats# #door_layout_top_1/4__narrow_slats__windows#",
-		"#door_layout_top_1/4__row# #door_layout_top_1/4__row__windows#",
-		"#door_layout_top_1/4__two_column_row# #door_layout_top_1/4__two_column_row__windows#",
-		"#door_layout_top_1/4__half_circle# #door_layout_top_1/4__half_circle__windows#"
-	],
-
-	"door_layout_top_1/4__two_column_row": [
-		"<rect x=\"5\" y=\"5\" width=\"10\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"5\" width=\"10\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"8\" fill=\"\\##door_back_color#\" />"
-	],
-
-	"door_layout_top_1/4__two_column_row__windows": [
-		"<mask id=\"door_layout_top_1/4__two_column_row__windows\"><rect x=\"6\" y=\"6\" width=\"8\" height=\"8\" fill=\"white\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"8\" fill=\"white\" /></mask> #[door_window_mask_id:door_layout_top_1/4__two_column_row__windows]door_window_mask#"
-	],
-
-	"door_layout_top_1/4__row": [
-		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"23\" height=\"8\" fill=\"\\##door_back_color#\" />"
-	],
-
-	"door_layout_top_1/4__row__windows": [
-		"<mask id=\"door_layout_top_1/4__row__windows\"><rect x=\"6\" y=\"6\" width=\"23\" height=\"8\" fill=\"white\" /></mask> #[door_window_mask_id:door_layout_top_1/4__row__windows]door_window_mask#"
-	],
-
-	"door_layout_top_1/4__narrow_slats": [
-		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"10\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"9\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"12\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"15\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"18\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"21\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"24\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" /> <rect x=\"27\" y=\"6\" width=\"2\" height=\"8\" fill=\"\\##door_back_color#\" />"
-	],
-
-	"door_layout_top_1/4__narrow_slats__windows": [
-		"<mask id=\"door_layout_top_1/4__narrow_slats__windows\"><rect x=\"6\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"9\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"12\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"15\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"18\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"21\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"24\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/> <rect x=\"27\" y=\"6\" width=\"2\" height=\"8\" fill=\"white\"/></mask> #[door_window_mask_id:door_layout_top_1/4__narrow_slats__windows]door_window_mask#"
-	],
-
-	"door_layout_top_1/4__half_circle": [
-		"<rect x=\"5\" y=\"14\" width=\"25\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"12\" width=\"23\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"7\" y=\"12\" width=\"21\" height=\"2\"  fill=\"\\##door_back_color#\" /> <rect x=\"7\" y=\"10\" width=\"21\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"10\" width=\"19\" height=\"2\"  fill=\"\\##door_back_color#\" /> <rect x=\"8\" y=\"9\" width=\"19\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"9\" y=\"9\" width=\"17\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"9\" y=\"8\" width=\"17\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"10\" y=\"8\" width=\"15\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"10\" y=\"7\" width=\"15\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"12\" y=\"7\" width=\"11\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"12\" y=\"6\" width=\"11\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"14\" y=\"6\" width=\"7\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"14\" y=\"5\" width=\"7\" height=\"1\"  fill=\"\\##door_detail_color#\" />"
-	],
-
-	"door_layout_top_1/4__half_circle__windows": [
-		"<mask id=\"door_layout_top_1/4__half_circle__windows\"><rect x=\"7\" y=\"12\" width=\"21\" height=\"2\"  fill=\"white\" /><rect x=\"8\" y=\"10\" width=\"19\" height=\"2\"  fill=\"white\" /><rect x=\"9\" y=\"9\" width=\"17\" height=\"1\"  fill=\"white\" /> <rect x=\"10\" y=\"8\" width=\"15\" height=\"1\"  fill=\"white\" /><rect x=\"12\" y=\"7\" width=\"11\" height=\"1\"  fill=\"white\" /><rect x=\"14\" y=\"6\" width=\"7\" height=\"1\"  fill=\"white\" /></mask> #[door_window_mask_id:door_layout_top_1/4__half_circle__windows]door_window_mask#"
-	],
-
-	"door_layout_bottom_3/4": [
-		"#door_layout_bottom_3/4__row#",
-		"#door_layout_bottom_3/4__two_row#",
-		"#door_layout_bottom_3/4__two_column_row#",
-		"#door_layout_bottom_3/4__two_column_two_row#",
-		"#door_layout_bottom_3/4__narrow_slats#"
-	],
-
-	"door_layout_bottom_3/4__windowed": [
-		"#door_layout_bottom_3/4__row# #door_layout_bottom_3/4__row__windows#",
-		"#door_layout_bottom_3/4__two_row# #door_layout_bottom_3/4__two_row__windows#",
-		"#door_layout_bottom_3/4__two_column_row# #door_layout_bottom_3/4__two_column_row__windows#",
-		"#door_layout_bottom_3/4__two_column_two_row# #door_layout_bottom_3/4__two_column_two_row__windows#"
-	],
-
-	"door_layout_bottom_3/4__row": [
-		"<rect x=\"5\" y=\"20\" width=\"25\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"23\" height=\"37\" fill=\"\\##door_back_color#\" /> "
-	],
-
-	"door_layout_bottom_3/4__row__windows": [
-		"<mask id=\"door_layout_bottom_3/4__row__windows\"><rect x=\"6\" y=\"21\" width=\"23\" height=\"37\" fill=\"white\" /></mask> #[door_window_mask_id:door_layout_bottom_3/4__row__windows]door_window_mask#"
-	],
-
-	"door_layout_bottom_3/4__two_row": [
-		"<rect x=\"5\" y=\"20\" width=\"25\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"23\" height=\"15\" fill=\"\\##door_back_color#\" /> <rect x=\"5\" y=\"42\" width=\"25\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"43\" width=\"23\" height=\"15\" fill=\"\\##door_back_color#\" />"
-	],
-
-	"door_layout_bottom_3/4__two_row__windows": [
-		"<mask id=\"door_layout_bottom_3/4__two_row__windows\"><rect x=\"6\" y=\"21\" width=\"23\" height=\"15\" fill=\"white\" />  <rect x=\"6\" y=\"43\" width=\"23\" height=\"15\" fill=\"white\" /></mask> #[door_window_mask_id:door_layout_bottom_3/4__two_row__windows]door_window_mask#"
-	],
-
-	"door_layout_bottom_3/4__two_column_row": [
-		"<rect x=\"5\" y=\"20\" width=\"10\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"8\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"20\" width=\"10\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"21\" width=\"8\" height=\"37\" fill=\"\\##door_back_color#\" />"
-	],
-
-	"door_layout_bottom_3/4__two_column_row__windows": [
-		"<mask id=\"door_layout_bottom_3/4__two_column_row__windows\"><rect x=\"6\" y=\"21\" width=\"8\" height=\"37\" fill=\"white\" /> <rect x=\"21\" y=\"21\" width=\"8\" height=\"37\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_bottom_3/4__two_column_row__windows]door_window_mask#"
-	],
+		"#door__half__top_rounded_windowed__bottom_solid#",
+		"#door__half__top_rounded_windowed__bottom_windowed#",
+		"#door__half__top_windowed__bottom_solid#",
+		"#door__half__top_rounded_solid__bottom_solid#",
+		"#door__half__top_windowed__bottom_windowed#",
+		"#door__half__top_solid__bottom_solid#",
 
-	"door_layout_bottom_3/4__two_column_two_row": [
-		"<rect x=\"5\" y=\"20\" width=\"10\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"8\" height=\"15\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"20\" width=\"10\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"21\" width=\"8\" height=\"15\" fill=\"\\##door_back_color#\" /> <rect x=\"5\" y=\"42\" width=\"10\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"43\" width=\"8\" height=\"15\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"42\" width=\"10\" height=\"17\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"43\" width=\"8\" height=\"15\" fill=\"\\##door_back_color#\" />"
+		"#door__thirds__top_two_column_windowed__bottom_two_row_two_column#",
+		"#door__thirds__top_rounded_windowed__bottom_solid#",
+		"#door__thirds__top_two_column_windowed__bottom_two_column_solid#",
+		"#door__thirds__top_windowed__bottom_solid#",
+		"#door__thirds__top_windowed__bottom_two_row_solid#",
+		"#door__thirds__top_two_column_windowed__bottom_two_column_two_row_windowed#",
+		"#door__thirds__top_rounded_windowed__bottom_windowed#",
+		"#door__thirds__top_two_column__bottom_two_column_two_row_solid#",
+		"#door__thirds__top_rounded__bottom_solid#",
+		"#door__thirds__top_two_column_windowed__two_column_windowed#",
+		"#door__thirds__top_windowed__bottom_windowed#",
+		"#door__thirds__top_windowed__bottom_two_row_windowed#",
+		"#door__thirds__top_two_column_solid__bottom_two_column_solid#",
+		"#door__thirds__top_solid__bottom_solid#",
+		"#door__thirds__top_solid__bottom_two_row_solid#"
 	],
 
-	"door_layout_bottom_3/4__two_column_two_row__windows": [
-		"<mask id=\"door_layout_bottom_3/4__two_column_two_row__windows\"><rect x=\"6\" y=\"21\" width=\"8\" height=\"15\" fill=\"white\" /><rect x=\"21\" y=\"21\" width=\"8\" height=\"15\" fill=\"white\" /><rect x=\"6\" y=\"43\" width=\"8\" height=\"15\" fill=\"white\" /><rect x=\"21\" y=\"43\" width=\"8\" height=\"15\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_bottom_3/4__two_column_two_row__windows]door_window_mask#"
-	],
-
-	"door_layout_bottom_3/4__narrow_slats": [
-		"<rect x=\"5\" y=\"20\" width=\"25\" height=\"39\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"9\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"12\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"15\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"18\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"21\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"24\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" /> <rect x=\"27\" y=\"21\" width=\"2\" height=\"37\" fill=\"\\##door_back_color#\" />"
-	],
+	"===== DOOR BACK -- FULL =====": "",
+	"door__full__three_small_windows": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h23M0 4h23M0 5h5M8 5h15M0 6h5M8 6h15M0 7h5M8 7h15M0 8h5M8 8h2M13 8h10M0 9h5M8 9h2M13 9h10M0 10h10M13 10h10M0 11h10M13 11h2M18 11h5M0 12h10M13 12h2M18 12h5M0 13h15M18 13h5M0 14h15M18 14h5M0 15h15M18 15h5M0 16h23M0 17h23M0 18h23M0 19h23M0 20h23M0 21h23M0 22h23M0 23h23M0 24h23M0 25h23M0 26h23M0 27h23M0 28h23M0 29h23M0 30h23M0 31h23M0 32h23M0 33h23M0 34h23M0 35h23M0 36h23M0 37h23M0 38h23\" /><path stroke=\"\\#214e76\" d=\"M5 5h3M5 6h1M5 7h1M5 8h1M10 8h3M5 9h1M10 9h1M10 10h1M10 11h1M15 11h3M10 12h1M15 12h1M15 13h1M15 14h1M15 15h1\" /><path stroke=\"\\#aae3fc\" d=\"M7 6h1M7 7h1M7 8h1M6 9h2M12 9h1M12 10h1M12 11h1M11 12h2M17 12h1M17 13h1M17 14h1M16 15h2\" />",
 
-	"door_layout_1/2_1/2": [
-		"#door_layout_top_1/2__windowed#  #door_layout_bottom_1/2__windowed#",
-		"#door_layout_top_1/2__windowed#  #door_layout_bottom_1/2#",
-		"#door_layout_top_1/2#  #door_layout_bottom_1/2#"
-	],
-
-	"door_layout_top_1/2": [
-		"#door_layout_top_1/2__row#",
-		"#door_layout_top_1/2__two_column_row#",
-		"#door_layout_top_1/2__row_round#",
-		"#door_layout_top_1/2__two_column_row_round#"
-	],
+	"door__full__oval_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h10M13 3h10M0 4h8M15 4h8M0 5h7M16 5h7M0 6h6M17 6h6M0 7h6M17 7h6M0 8h5M18 8h5M0 9h5M18 9h5M0 10h4M19 10h4M0 11h4M19 11h4M0 12h4M19 12h4M0 13h4M19 13h4M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h4M19 25h4M0 26h4M19 26h4M0 27h4M19 27h4M0 28h4M19 28h4M0 29h5M18 29h5M0 30h5M18 30h5M0 31h6M17 31h6M0 32h6M17 32h6M0 33h7M16 33h7M0 34h8M15 34h8M0 35h10M13 35h10M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M10 3h3M8 4h2M13 4h2M7 5h1M15 5h1M6 6h1M6 7h1M5 8h1M5 9h1M4 10h1M4 11h1M4 12h1M4 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M4 25h1M4 26h1M4 27h1M4 28h1M5 29h1M5 30h1M6 31h1M6 32h1M7 33h1\" /> <path stroke=\"\\#aae3fc\" d=\"M16 6h1M16 7h1M17 8h1M17 9h1M18 10h1M18 11h1M18 12h1M18 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M18 25h1M18 26h1M18 27h1M18 28h1M17 29h1M17 30h1M16 31h1M16 32h1M15 33h1M8 34h2M13 34h2M10 35h3\" />",
 
-	"door_layout_top_1/2__windowed": [
-		"#door_layout_top_1/2__row# #door_layout_top_1/2__row__windows#",
-		"#door_layout_top_1/2__two_column_row# #door_layout_top_1/2__two_column_row__windows#",
-		"#door_layout_top_1/2__row_round# #door_layout_top_1/2__row_round__windows#",
-		"#door_layout_top_1/2__two_column_row_round# #door_layout_top_1/2__two_column_row_round__windows#"
-	],
+	"door__full__oval_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h10M13 3h10M0 4h8M10 4h3M15 4h8M0 5h7M8 5h7M16 5h7M0 6h6M7 6h9M17 6h6M0 7h6M7 7h9M17 7h6M0 8h5M6 8h11M18 8h5M0 9h5M6 9h11M18 9h5M0 10h4M5 10h13M19 10h4M0 11h4M5 11h13M19 11h4M0 12h4M5 12h13M19 12h4M0 13h4M5 13h13M19 13h4M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h4M5 25h13M19 25h4M0 26h4M5 26h13M19 26h4M0 27h4M5 27h13M19 27h4M0 28h4M5 28h13M19 28h4M0 29h5M6 29h11M18 29h5M0 30h5M6 30h11M18 30h5M0 31h6M7 31h9M17 31h6M0 32h6M7 32h9M17 32h6M0 33h7M8 33h7M16 33h7M0 34h8M10 34h3M15 34h8M0 35h10M13 35h10M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M10 3h3M8 4h2M13 4h2M7 5h1M15 5h1M6 6h1M6 7h1M5 8h1M5 9h1M4 10h1M4 11h1M4 12h1M4 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M4 25h1M4 26h1M4 27h1M4 28h1M5 29h1M5 30h1M6 31h1M6 32h1M7 33h1\" /> <path stroke=\"\\#aae3fc\" d=\"M16 6h1M16 7h1M17 8h1M17 9h1M18 10h1M18 11h1M18 12h1M18 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M18 25h1M18 26h1M18 27h1M18 28h1M17 29h1M17 30h1M16 31h1M16 32h1M15 33h1M8 34h2M13 34h2M10 35h3\" />",
 
-	"door_layout_bottom_1/2": [
-		"#door_layout_bottom_1/2__row#",
-		"#door_layout_bottom_1/2__two_column_row#"
-	],
+	"door__full__two_column_rounded_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h5M8 3h7M18 3h5M0 4h4M9 4h5M19 4h4M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h3M10 10h3M20 10h3M0 11h3M10 11h3M20 11h3M0 12h3M10 12h3M20 12h3M0 13h3M10 13h3M20 13h3M0 14h3M10 14h3M20 14h3M0 15h3M10 15h3M20 15h3M0 16h3M10 16h3M20 16h3M0 17h3M10 17h3M20 17h3M0 18h3M10 18h3M20 18h3M0 19h3M10 19h3M20 19h3M0 20h3M10 20h3M20 20h3M0 21h3M10 21h3M20 21h3M0 22h3M10 22h3M20 22h3M0 23h3M10 23h3M20 23h3M0 24h3M10 24h3M20 24h3M0 25h3M10 25h3M20 25h3M0 26h3M10 26h3M20 26h3M0 27h3M10 27h3M20 27h3M0 28h3M10 28h3M20 28h3M0 29h3M10 29h3M20 29h3M0 30h3M10 30h3M20 30h3M0 31h3M10 31h3M20 31h3M0 32h3M10 32h3M20 32h3M0 33h3M10 33h3M20 33h3M0 34h3M10 34h3M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M5 3h3M15 3h3M4 4h1M14 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 10h1M13 10h1M3 11h1M13 11h1M3 12h1M13 12h1M3 13h1M13 13h1M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M8 4h1M18 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M9 9h1M19 9h1M9 10h1M19 10h1M9 11h1M19 11h1M9 12h1M19 12h1M9 13h1M19 13h1M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_bottom_1/2__windowed": [
-		"#door_layout_bottom_1/2__row# #door_layout_bottom_1/2__row__windows#",
-		"#door_layout_bottom_1/2__two_column_row# #door_layout_bottom_1/2__two_column_row__windows#"
-	],
+	"door__full__two_column_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M10 4h3M20 4h3M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h3M10 10h3M20 10h3M0 11h3M10 11h3M20 11h3M0 12h3M10 12h3M20 12h3M0 13h3M10 13h3M20 13h3M0 14h3M10 14h3M20 14h3M0 15h3M10 15h3M20 15h3M0 16h3M10 16h3M20 16h3M0 17h3M10 17h3M20 17h3M0 18h3M10 18h3M20 18h3M0 19h3M10 19h3M20 19h3M0 20h3M10 20h3M20 20h3M0 21h3M10 21h3M20 21h3M0 22h3M10 22h3M20 22h3M0 23h3M10 23h3M20 23h3M0 24h3M10 24h3M20 24h3M0 25h3M10 25h3M20 25h3M0 26h3M10 26h3M20 26h3M0 27h3M10 27h3M20 27h3M0 28h3M10 28h3M20 28h3M0 29h3M10 29h3M20 29h3M0 30h3M10 30h3M20 30h3M0 31h3M10 31h3M20 31h3M0 32h3M10 32h3M20 32h3M0 33h3M10 33h3M20 33h3M0 34h3M10 34h3M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 10h1M13 10h1M3 11h1M13 11h1M3 12h1M13 12h1M3 13h1M13 13h1M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M9 9h1M19 9h1M9 10h1M19 10h1M9 11h1M19 11h1M9 12h1M19 12h1M9 13h1M19 13h1M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_top_1/2__row": [
-		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"23\" height=\"23\" fill=\"\\##door_back_color#\" /> "
-	],
+	"door__full__rounded_windowed": "<path stroke=\"\\#689ec2\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M17 4h6M0 5h5M18 5h5M0 6h4M19 6h4M0 7h4M19 7h4M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#1c4c78\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M4 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#a6e2fe\" d=\"M17 5h1M18 6h1M18 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_top_1/2__row__windows": [
-		"<mask id=\"door_layout_top_1/2__row__windows\"><rect x=\"6\" y=\"6\" width=\"23\" height=\"23\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_top_1/2__row__windows]door_window_mask#"
-	],
+	"door__full__two_column_rounded_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h5M8 3h7M18 3h5M0 4h4M5 4h3M9 4h5M15 4h3M19 4h4M0 5h3M4 5h5M10 5h3M14 5h5M20 5h3M0 6h3M4 6h5M10 6h3M14 6h5M20 6h3M0 7h3M4 7h5M10 7h3M14 7h5M20 7h3M0 8h3M4 8h5M10 8h3M14 8h5M20 8h3M0 9h3M4 9h5M10 9h3M14 9h5M20 9h3M0 10h3M4 10h5M10 10h3M14 10h5M20 10h3M0 11h3M4 11h5M10 11h3M14 11h5M20 11h3M0 12h3M4 12h5M10 12h3M14 12h5M20 12h3M0 13h3M4 13h5M10 13h3M14 13h5M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M4 22h5M10 22h3M14 22h5M20 22h3M0 23h3M4 23h5M10 23h3M14 23h5M20 23h3M0 24h3M4 24h5M10 24h3M14 24h5M20 24h3M0 25h3M4 25h5M10 25h3M14 25h5M20 25h3M0 26h3M4 26h5M10 26h3M14 26h5M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M5 3h3M15 3h3M4 4h1M14 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 10h1M13 10h1M3 11h1M13 11h1M3 12h1M13 12h1M3 13h1M13 13h1M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M8 4h1M18 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M9 9h1M19 9h1M9 10h1M19 10h1M9 11h1M19 11h1M9 12h1M19 12h1M9 13h1M19 13h1M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_top_1/2__row_round": [
-		"<rect x=\"6\" y=\"12\" width=\"23\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"7\" y=\"12\" width=\"21\" height=\"2\"  fill=\"\\##door_back_color#\" /> <rect x=\"7\" y=\"10\" width=\"21\" height=\"2\"  fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"10\" width=\"19\" height=\"2\"  fill=\"\\##door_back_color#\" /> <rect x=\"8\" y=\"9\" width=\"19\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"9\" y=\"9\" width=\"17\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"9\" y=\"8\" width=\"17\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"10\" y=\"8\" width=\"15\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"10\" y=\"7\" width=\"15\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"12\" y=\"7\" width=\"11\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"12\" y=\"6\" width=\"11\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"14\" y=\"6\" width=\"7\" height=\"1\"  fill=\"\\##door_back_color#\" /> <rect x=\"14\" y=\"5\" width=\"7\" height=\"1\"  fill=\"\\##door_detail_color#\" /> <rect x=\"5\" y=\"14\" width=\"25\" height=\"15\"  fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"14\" width=\"23\" height=\"14\"  fill=\"\\##door_back_color#\" /> "
-	],
+	"door__full__two_column_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M4 4h5M10 4h3M14 4h5M20 4h3M0 5h3M4 5h5M10 5h3M14 5h5M20 5h3M0 6h3M4 6h5M10 6h3M14 6h5M20 6h3M0 7h3M4 7h5M10 7h3M14 7h5M20 7h3M0 8h3M4 8h5M10 8h3M14 8h5M20 8h3M0 9h3M4 9h5M10 9h3M14 9h5M20 9h3M0 10h3M4 10h5M10 10h3M14 10h5M20 10h3M0 11h3M4 11h5M10 11h3M14 11h5M20 11h3M0 12h3M4 12h5M10 12h3M14 12h5M20 12h3M0 13h3M4 13h5M10 13h3M14 13h5M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M4 22h5M10 22h3M14 22h5M20 22h3M0 23h3M4 23h5M10 23h3M14 23h5M20 23h3M0 24h3M4 24h5M10 24h3M14 24h5M20 24h3M0 25h3M4 25h5M10 25h3M14 25h5M20 25h3M0 26h3M4 26h5M10 26h3M14 26h5M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 10h1M13 10h1M3 11h1M13 11h1M3 12h1M13 12h1M3 13h1M13 13h1M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M9 9h1M19 9h1M9 10h1M19 10h1M9 11h1M19 11h1M9 12h1M19 12h1M9 13h1M19 13h1M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_top_1/2__row_round__windows": [
-		"<mask id=\"door_layout_top_1/2__row_round__windows\"><rect x=\"7\" y=\"12\" width=\"21\" height=\"2\"  fill=\"white\" /><rect x=\"8\" y=\"10\" width=\"19\" height=\"2\"  fill=\"white\" /><rect x=\"9\" y=\"9\" width=\"17\" height=\"1\"  fill=\"white\" /><rect x=\"10\" y=\"8\" width=\"15\" height=\"1\"  fill=\"white\" /><rect x=\"12\" y=\"7\" width=\"11\" height=\"1\"  fill=\"white\" /><rect x=\"14\" y=\"6\" width=\"7\" height=\"1\"  fill=\"white\" /><rect x=\"6\" y=\"14\" width=\"23\" height=\"14\"  fill=\"white\" /></mask>#[door_window_mask_id:door_layout_top_1/2__row_round__windows]door_window_mask#"
-	],
+	"door__full__rounded_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M8 4h7M17 4h6M0 5h5M6 5h11M18 5h5M0 6h4M5 6h13M19 6h4M0 7h4M5 7h13M19 7h4M0 8h3M4 8h15M20 8h3M0 9h3M4 9h15M20 9h3M0 10h3M4 10h15M20 10h3M0 11h3M4 11h15M20 11h3M0 12h3M4 12h15M20 12h3M0 13h3M4 13h15M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M4 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M18 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_top_1/2__two_column_row": [
-		"<rect x=\"5\" y=\"5\" width=\"10\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"23\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"5\" width=\"10\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"23\" fill=\"\\##door_back_color#\" /> "
-	],
+	"door__full__windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_top_1/2__two_column_row__windows": [
-		"<mask id=\"door_layout_top_1/2__two_column_row__windows\"><rect x=\"6\" y=\"6\" width=\"8\" height=\"23\" fill=\"white\" /><rect x=\"21\" y=\"6\" width=\"8\" height=\"23\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_top_1/2__two_column_row__windows]door_window_mask#"
-	],
+	"door__full__solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M4 4h15M20 4h3M0 5h3M4 5h15M20 5h3M0 6h3M4 6h15M20 6h3M0 7h3M4 7h15M20 7h3M0 8h3M4 8h15M20 8h3M0 9h3M4 9h15M20 9h3M0 10h3M4 10h15M20 10h3M0 11h3M4 11h15M20 11h3M0 12h3M4 12h15M20 12h3M0 13h3M4 13h15M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_top_1/2__two_column_row_round": [
-		"<rect x=\"8\" y=\"5\" width=\"4\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"6\" width=\"4\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"6\" y=\"7\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"7\" y=\"7\" width=\"6\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"5\" y=\"8\" width=\"10\" height=\"22\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"8\" width=\"8\" height=\"21\" fill=\"\\##door_back_color#\" /> <rect x=\"23\" y=\"5\" width=\"4\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"23\" y=\"6\" width=\"4\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"21\" y=\"7\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"22\" y=\"7\" width=\"6\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"8\" width=\"10\" height=\"22\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"8\" width=\"8\" height=\"21\" fill=\"\\##door_back_color#\" />"
-	],
 
-	"door_layout_top_1/2__two_column_row_round__windows": [
-		"<mask id=\"door_layout_top_1/2__two_column_row_round__windows\"><rect x=\"8\" y=\"6\" width=\"4\" height=\"1\" fill=\"white\" /><rect x=\"7\" y=\"7\" width=\"6\" height=\"1\" fill=\"white\" /> <rect x=\"6\" y=\"8\" width=\"8\" height=\"21\" fill=\"white\" /><rect x=\"23\" y=\"6\" width=\"4\" height=\"1\" fill=\"white\" /><rect x=\"22\" y=\"7\" width=\"6\" height=\"1\" fill=\"white\" /><rect x=\"21\" y=\"8\" width=\"8\" height=\"21\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_top_1/2__two_column_row_round__windows]door_window_mask#"
-	],
+	"===== DOOR BACK -- HALF =====": "",
+	"door__half__top_rounded_windowed__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M17 4h6M0 5h5M18 5h5M0 6h4M19 6h4M0 7h4M19 7h4M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M4 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M18 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_bottom_1/2__row": [
-		"<rect x=\"5\" y=\"34\" width=\"25\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"35\" width=\"23\" height=\"23\" fill=\"\\##door_back_color#\" /> "
-	],
+	"door__half__top_rounded_windowed__bottom_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M17 4h6M0 5h5M18 5h5M0 6h4M19 6h4M0 7h4M19 7h4M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M4 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M18 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_bottom_1/2__row__windows": [
-		"<mask id=\"door_layout_bottom_1/2__row__windows\"><rect x=\"6\" y=\"35\" width=\"23\" height=\"23\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_bottom_1/2__row__windows]door_window_mask#"
-	],
+	"door__half__top_windowed__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_bottom_1/2__two_column_row": [
-		"<rect x=\"5\" y=\"34\" width=\"10\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"35\" width=\"8\" height=\"23\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"34\" width=\"10\" height=\"25\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"35\" width=\"8\" height=\"23\" fill=\"\\##door_back_color#\" />"
-	],
+	"door__half__top_rounded_solid__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M8 4h7M17 4h6M0 5h5M6 5h11M18 5h5M0 6h4M5 6h13M19 6h4M0 7h4M5 7h13M19 7h4M0 8h3M4 8h15M20 8h3M0 9h3M4 9h15M20 9h3M0 10h3M4 10h15M20 10h3M0 11h3M4 11h15M20 11h3M0 12h3M4 12h15M20 12h3M0 13h3M4 13h15M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M4 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M18 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_bottom_1/2__two_column_row__windows": [
-		"<mask id=\"door_layout_bottom_1/2__two_column_row__windows\"><rect x=\"6\" y=\"35\" width=\"8\" height=\"23\" fill=\"white\" /><rect x=\"21\" y=\"35\" width=\"8\" height=\"23\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_bottom_1/2__two_column_row__windows]door_window_mask#"
-	],
+	"door__half__top_windowed__bottom_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h3M20 10h3M0 11h3M20 11h3M0 12h3M20 12h3M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_full": [
-		"#door_layout_full__row#",
-		"#door_layout_full__row# #door_layout_full__row__windows#",
-		"#door_layout_full__two_column_row#",
-		"#door_layout_full__two_column_row# #door_layout_full__two_column_row__windows#",
-		"#door_layout_full__two_column_row_round#",
-		"#door_layout_full__two_column_row_round# #door_layout_full__two_column_row_round__windows#",
-		"#door_layout_full__three_small_staggered# #door_layout_full__three_small_staggered__windows#",
-		"#door_layout_full__three_small_staggered# #door_layout_full__three_small_staggered__windows#"
-	],
+	"door__half__top_solid__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M4 4h15M20 4h3M0 5h3M4 5h15M20 5h3M0 6h3M4 6h15M20 6h3M0 7h3M4 7h15M20 7h3M0 8h3M4 8h15M20 8h3M0 9h3M4 9h15M20 9h3M0 10h3M4 10h15M20 10h3M0 11h3M4 11h15M20 11h3M0 12h3M4 12h15M20 12h3M0 13h3M4 13h15M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M20 17h3M0 18h23M0 19h23M0 20h23M0 21h3M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 10h1M3 11h1M3 12h1M3 13h1M3 14h1M3 15h1M3 16h1M3 17h1M3 21h17M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M19 9h1M19 10h1M19 11h1M19 12h1M19 13h1M19 14h1M19 15h1M19 16h1M4 17h16M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_full__row": [
-		"<rect x=\"5\" y=\"5\" width=\"25\" height=\"54\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"23\" height=\"52\" fill=\"\\##door_back_color#\" /> "
-	],
 
-	"door_layout_full__row__windows": [
-		"<mask id=\"door_layout_bottom_1/2__two_column_row__windows\"><rect x=\"6\" y=\"6\" width=\"23\" height=\"52\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_bottom_1/2__two_column_row__windows]door_window_mask#"
-	],
+	"===== DOOR BACK -- THIRDS =====": "",
+	"door__thirds__top_two_column_windowed__bottom_two_row_two_column": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M10 4h3M20 4h3M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M10 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M10 26h3M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 26h7M13 26h7M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M4 22h6M14 22h6M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_full__two_column_row": [
-		"<rect x=\"5\" y=\"5\" width=\"10\" height=\"54\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"52\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"5\" width=\"10\" height=\"54\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"52\" fill=\"\\##door_back_color#\" /> "
-	],
+	"door__thirds__top_rounded_windowed__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M17 4h6M0 5h5M18 5h5M0 6h4M19 6h4M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_full__two_column_row__windows": [
-		"<mask id=\"door_layout_full__two_column_row__windows\"><rect x=\"6\" y=\"6\" width=\"8\" height=\"52\" fill=\"white\" /><rect x=\"21\" y=\"6\" width=\"8\" height=\"52\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_full__two_column_row__windows]door_window_mask#"
-	],
+	"door__thirds__top_two_column_windowed__bottom_two_column_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M10 4h3M20 4h3M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M4 22h5M10 22h3M14 22h5M20 22h3M0 23h3M4 23h5M10 23h3M14 23h5M20 23h3M0 24h3M4 24h5M10 24h3M14 24h5M20 24h3M0 25h3M4 25h5M10 25h3M14 25h5M20 25h3M0 26h3M4 26h5M10 26h3M14 26h5M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /><path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_full__two_column_row_round": [
-		"<rect x=\"8\" y=\"5\" width=\"4\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"6\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"6\" width=\"4\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"6\" y=\"7\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"7\" y=\"7\" width=\"6\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"5\" y=\"8\" width=\"10\" height=\"51\" fill=\"\\##door_detail_color#\" /> <rect x=\"6\" y=\"8\" width=\"8\" height=\"50\" fill=\"\\##door_back_color#\" /> <rect x=\"23\" y=\"5\" width=\"4\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"6\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"23\" y=\"6\" width=\"4\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"21\" y=\"7\" width=\"8\" height=\"1\" fill=\"\\##door_detail_color#\" /> <rect x=\"22\" y=\"7\" width=\"6\" height=\"1\" fill=\"\\##door_back_color#\" /> <rect x=\"20\" y=\"8\" width=\"10\" height=\"51\" fill=\"\\##door_detail_color#\" /> <rect x=\"21\" y=\"8\" width=\"8\" height=\"50\" fill=\"\\##door_back_color#\" />"
-	],
+	"door__thirds__top_windowed__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_full__two_column_row_round__windows": [
-		"<mask id=\"door_layout_full__two_column_row_round__windows\"><rect x=\"8\" y=\"6\" width=\"4\" height=\"1\" fill=\"white\" /><rect x=\"7\" y=\"7\" width=\"6\" height=\"1\" fill=\"white\" /><rect x=\"6\" y=\"8\" width=\"8\" height=\"50\" fill=\"white\" /><rect x=\"23\" y=\"6\" width=\"4\" height=\"1\" fill=\"white\" /><rect x=\"22\" y=\"7\" width=\"6\" height=\"1\" fill=\"white\" /><rect x=\"21\" y=\"8\" width=\"8\" height=\"50\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_full__two_column_row_round__windows]door_window_mask#"
-	],
+	"door__thirds__top_windowed__bottom_two_row_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 26h17M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M4 22h16M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"door_layout_full__three_small_staggered": [
-		"<rect x=\"7\" y=\"8\" width=\"5\" height=\"9\" fill=\"\\##door_detail_color#\" /> <rect x=\"8\" y=\"9\" width=\"3\" height=\"7\" fill=\"\\##door_back_color#\" /> <rect x=\"15\" y=\"12\" width=\"5\" height=\"9\" fill=\"\\##door_detail_color#\" /> <rect x=\"16\" y=\"13\" width=\"3\" height=\"7\" fill=\"\\##door_back_color#\" /> <rect x=\"23\" y=\"16\" width=\"5\" height=\"9\" fill=\"\\##door_detail_color#\" /> <rect x=\"24\" y=\"17\" width=\"3\" height=\"7\" fill=\"\\##door_back_color#\" />"
-	],
+	"door__thirds__top_two_column_windowed__bottom_two_column_two_row_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M10 4h3M20 4h3M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M10 14h3M20 14h3M0 15h3M10 15h3M20 15h3M0 16h3M10 16h3M20 16h3M0 17h3M10 17h3M20 17h3M0 18h3M10 18h3M20 18h3M0 19h3M10 19h3M20 19h3M0 20h3M10 20h3M20 20h3M0 21h3M10 21h3M20 21h3M0 22h3M10 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M10 26h3M20 26h3M0 27h3M10 27h3M20 27h3M0 28h3M10 28h3M20 28h3M0 29h3M10 29h3M20 29h3M0 30h3M10 30h3M20 30h3M0 31h3M10 31h3M20 31h3M0 32h3M10 32h3M20 32h3M0 33h3M10 33h3M20 33h3M0 34h3M10 34h3M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 26h7M13 26h7M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M4 22h6M14 22h6M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"door_layout_full__three_small_staggered__windows": [
-		"<mask id=\"door_layout_full__three_small_staggered__windows\"><rect x=\"8\" y=\"9\" width=\"3\" height=\"7\" fill=\"white\" /><rect x=\"16\" y=\"13\" width=\"3\" height=\"7\" fill=\"white\" /><rect x=\"24\" y=\"17\" width=\"3\" height=\"7\" fill=\"white\" /></mask>#[door_window_mask_id:door_layout_full__three_small_staggered__windows]door_window_mask#"
-	],
-	"===== DOOR LAYOUTS END =====": [],
+	"door__thirds__top_rounded_windowed__bottom_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M17 4h6M0 5h5M18 5h5M0 6h4M19 6h4M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
+	"door__thirds__top_two_column__bottom_two_column_two_row_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M4 4h5M10 4h3M14 4h5M20 4h3M0 5h3M4 5h5M10 5h3M14 5h5M20 5h3M0 6h3M4 6h5M10 6h3M14 6h5M20 6h3M0 7h3M4 7h5M10 7h3M14 7h5M20 7h3M0 8h3M4 8h5M10 8h3M14 8h5M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M10 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M10 26h3M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 26h7M13 26h7M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M4 22h6M14 22h6M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"===== DOOR HARDWARE START =====": [],
-	"door_hardware_flip": ["translate(1, 24)", "translate(31, 24)"],
-	"door_hardware": ["<g transform=\" #door_hardware_flip#\">#doorknob_backplate# #doorknob#</g>"],
-	
-	"doorknob_opacity": "1",
-	"doorknob_color": "#hardwareLightColor#",
-	"doorknob_backplate_color": "#hardwareMidColor#",
-	"doorknob_keyhole_color": "#hardwareDarkColor#",
+	"door__thirds__top_rounded__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h8M15 3h8M0 4h6M8 4h7M17 4h6M0 5h5M6 5h11M18 5h5M0 6h4M5 6h13M19 6h4M0 7h3M4 7h15M20 7h3M0 8h3M4 8h15M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M8 3h7M6 4h2M15 4h2M5 5h1M4 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M17 5h1M18 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"doorknob_top": "<rect x=\"1\" y=\"4\" width=\"1\" height=\"3\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" /> <rect x=\"0\" y=\"5\" width=\"3\" height=\"1\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" />",
-	"doorknob_bottom": "<rect x=\"1\" y=\"9\" width=\"1\" height=\"3\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" /> <rect x=\"0\" y=\"10\" width=\"3\" height=\"1\" fill=\"\\##doorknob_color#\" opacity=\"#doorknob_opacity#\" />",
-	"doorknob_top_and_bottom": ["#doorknob_top# #doorknob_bottom#"],
-	"doorknob": ["#doorknob_top#", "#doorknob_bottom#", "#doorknob_top_and_bottom#"],
+	"door__thirds__top_two_column_windowed__two_column_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M10 4h3M20 4h3M0 5h3M10 5h3M20 5h3M0 6h3M10 6h3M20 6h3M0 7h3M10 7h3M20 7h3M0 8h3M10 8h3M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M10 14h3M20 14h3M0 15h3M10 15h3M20 15h3M0 16h3M10 16h3M20 16h3M0 17h3M10 17h3M20 17h3M0 18h3M10 18h3M20 18h3M0 19h3M10 19h3M20 19h3M0 20h3M10 20h3M20 20h3M0 21h3M10 21h3M20 21h3M0 22h3M10 22h3M20 22h3M0 23h3M10 23h3M20 23h3M0 24h3M10 24h3M20 24h3M0 25h3M10 25h3M20 25h3M0 26h3M10 26h3M20 26h3M0 27h3M10 27h3M20 27h3M0 28h3M10 28h3M20 28h3M0 29h3M10 29h3M20 29h3M0 30h3M10 30h3M20 30h3M0 31h3M10 31h3M20 31h3M0 32h3M10 32h3M20 32h3M0 33h3M10 33h3M20 33h3M0 34h3M10 34h3M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"doorknob_backplate": ["#doorknob_backplate_single#", "#doorknob_backplate_double#"],
+	"door__thirds__top_windowed__bottom_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h3M20 23h3M0 24h3M20 24h3M0 25h3M20 25h3M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"doorknob_backplate_single": ["<rect x=\"0\" y=\"8\" width=\"3\" height=\"5\" fill=\"\\##doorknob_backplate_color#\" /> <rect x=\"1\" y=\"10\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> #doorknob_backplate_single_round_top# #doorknob_backplate_round_bottom#"],
-	"doorknob_backplate_double": ["<rect x=\"0\" y=\"3\" width=\"3\" height=\"10\" fill=\"\\##doorknob_backplate_color#\" /> <rect x=\"1\" y=\"5\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> <rect x=\"1\" y=\"10\" width=\"1\" height=\"1\" fill=\"\\##doorknob_keyhole_color#\" /> #doorknob_backplate_double_round_top# #doorknob_backplate_round_bottom#"],
+	"door__thirds__top_windowed__bottom_two_row_windowed": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M20 4h3M0 5h3M20 5h3M0 6h3M20 6h3M0 7h3M20 7h3M0 8h3M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M20 14h3M0 15h3M20 15h3M0 16h3M20 16h3M0 17h3M20 17h3M0 18h3M20 18h3M0 19h3M20 19h3M0 20h3M20 20h3M0 21h3M20 21h3M0 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M20 26h3M0 27h3M20 27h3M0 28h3M20 28h3M0 29h3M20 29h3M0 30h3M20 30h3M0 31h3M20 31h3M0 32h3M20 32h3M0 33h3M20 33h3M0 34h3M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 26h17M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M4 22h16M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"doorknob_backplate_single_round_top": ["", "<rect x=\"1\" y=\"8\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_single_round_top_decoration#"],
-	"doorknob_backplate_single_round_top_decoration": ["", "<rect x=\"1\" y=\"6\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
+	"door__thirds__top_two_column_solid__bottom_two_column_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M10 3h3M20 3h3M0 4h3M4 4h5M10 4h3M14 4h5M20 4h3M0 5h3M4 5h5M10 5h3M14 5h5M20 5h3M0 6h3M4 6h5M10 6h3M14 6h5M20 6h3M0 7h3M4 7h5M10 7h3M14 7h5M20 7h3M0 8h3M4 8h5M10 8h3M14 8h5M20 8h3M0 9h3M10 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M10 13h3M20 13h3M0 14h3M4 14h5M10 14h3M14 14h5M20 14h3M0 15h3M4 15h5M10 15h3M14 15h5M20 15h3M0 16h3M4 16h5M10 16h3M14 16h5M20 16h3M0 17h3M4 17h5M10 17h3M14 17h5M20 17h3M0 18h3M4 18h5M10 18h3M14 18h5M20 18h3M0 19h3M4 19h5M10 19h3M14 19h5M20 19h3M0 20h3M4 20h5M10 20h3M14 20h5M20 20h3M0 21h3M4 21h5M10 21h3M14 21h5M20 21h3M0 22h3M4 22h5M10 22h3M14 22h5M20 22h3M0 23h3M4 23h5M10 23h3M14 23h5M20 23h3M0 24h3M4 24h5M10 24h3M14 24h5M20 24h3M0 25h3M4 25h5M10 25h3M14 25h5M20 25h3M0 26h3M4 26h5M10 26h3M14 26h5M20 26h3M0 27h3M4 27h5M10 27h3M14 27h5M20 27h3M0 28h3M4 28h5M10 28h3M14 28h5M20 28h3M0 29h3M4 29h5M10 29h3M14 29h5M20 29h3M0 30h3M4 30h5M10 30h3M14 30h5M20 30h3M0 31h3M4 31h5M10 31h3M14 31h5M20 31h3M0 32h3M4 32h5M10 32h3M14 32h5M20 32h3M0 33h3M4 33h5M10 33h3M14 33h5M20 33h3M0 34h3M4 34h5M10 34h3M14 34h5M20 34h3M0 35h3M10 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h7M13 3h7M3 4h1M13 4h1M3 5h1M13 5h1M3 6h1M13 6h1M3 7h1M13 7h1M3 8h1M13 8h1M3 9h1M13 9h1M3 13h7M13 13h7M3 14h1M13 14h1M3 15h1M13 15h1M3 16h1M13 16h1M3 17h1M13 17h1M3 18h1M13 18h1M3 19h1M13 19h1M3 20h1M13 20h1M3 21h1M13 21h1M3 22h1M13 22h1M3 23h1M13 23h1M3 24h1M13 24h1M3 25h1M13 25h1M3 26h1M13 26h1M3 27h1M13 27h1M3 28h1M13 28h1M3 29h1M13 29h1M3 30h1M13 30h1M3 31h1M13 31h1M3 32h1M13 32h1M3 33h1M13 33h1M3 34h1M13 34h1M3 35h1M13 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M9 4h1M19 4h1M9 5h1M19 5h1M9 6h1M19 6h1M9 7h1M19 7h1M9 8h1M19 8h1M4 9h6M14 9h6M9 14h1M19 14h1M9 15h1M19 15h1M9 16h1M19 16h1M9 17h1M19 17h1M9 18h1M19 18h1M9 19h1M19 19h1M9 20h1M19 20h1M9 21h1M19 21h1M9 22h1M19 22h1M9 23h1M19 23h1M9 24h1M19 24h1M9 25h1M19 25h1M9 26h1M19 26h1M9 27h1M19 27h1M9 28h1M19 28h1M9 29h1M19 29h1M9 30h1M19 30h1M9 31h1M19 31h1M9 32h1M19 32h1M9 33h1M19 33h1M9 34h1M19 34h1M4 35h6M14 35h6\" />",
 
-	"doorknob_backplate_double_round_top": ["", "<rect x=\"1\" y=\"2\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_double_round_top_decoration#"],
-	"doorknob_backplate_double_round_top_decoration": ["", "<rect x=\"1\" y=\"0\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
+	"door__thirds__top_solid__bottom_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M4 4h15M20 4h3M0 5h3M4 5h15M20 5h3M0 6h3M4 6h15M20 6h3M0 7h3M4 7h15M20 7h3M0 8h3M4 8h15M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M4 22h15M20 22h3M0 23h3M4 23h15M20 23h3M0 24h3M4 24h15M20 24h3M0 25h3M4 25h15M20 25h3M0 26h3M4 26h15M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 23h1M3 24h1M3 25h1M3 26h1M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M19 22h1M19 23h1M19 24h1M19 25h1M19 26h1M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />",
 
-	"doorknob_backplate_round_bottom": ["", "<rect x=\"1\" y=\"13\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" /> #doorknob_backplate_round_bottom_decoration#"],
-	"doorknob_backplate_round_bottom_decoration": ["", "<rect x=\"1\" y=\"15\" width=\"1\" height=\"1\" fill=\"\\##doorknob_backplate_color#\" />"],
-	"===== DOOR HARDWARE END =====": []
+	"door__thirds__top_solid__bottom_two_row_solid": "<path stroke=\"\\#6c9fc0\" d=\"M0 0h23M0 1h23M0 2h23M0 3h3M20 3h3M0 4h3M4 4h15M20 4h3M0 5h3M4 5h15M20 5h3M0 6h3M4 6h15M20 6h3M0 7h3M4 7h15M20 7h3M0 8h3M4 8h15M20 8h3M0 9h3M20 9h3M0 10h23M0 11h23M0 12h23M0 13h3M20 13h3M0 14h3M4 14h15M20 14h3M0 15h3M4 15h15M20 15h3M0 16h3M4 16h15M20 16h3M0 17h3M4 17h15M20 17h3M0 18h3M4 18h15M20 18h3M0 19h3M4 19h15M20 19h3M0 20h3M4 20h15M20 20h3M0 21h3M4 21h15M20 21h3M0 22h3M20 22h3M0 23h23M0 24h23M0 25h23M0 26h3M20 26h3M0 27h3M4 27h15M20 27h3M0 28h3M4 28h15M20 28h3M0 29h3M4 29h15M20 29h3M0 30h3M4 30h15M20 30h3M0 31h3M4 31h15M20 31h3M0 32h3M4 32h15M20 32h3M0 33h3M4 33h15M20 33h3M0 34h3M4 34h15M20 34h3M0 35h3M20 35h3M0 36h23M0 37h23M0 38h23\" /> <path stroke=\"\\#214e76\" d=\"M3 3h17M3 4h1M3 5h1M3 6h1M3 7h1M3 8h1M3 9h1M3 13h17M3 14h1M3 15h1M3 16h1M3 17h1M3 18h1M3 19h1M3 20h1M3 21h1M3 22h1M3 26h17M3 27h1M3 28h1M3 29h1M3 30h1M3 31h1M3 32h1M3 33h1M3 34h1M3 35h1\" /> <path stroke=\"\\#aae3fc\" d=\"M19 4h1M19 5h1M19 6h1M19 7h1M19 8h1M4 9h16M19 14h1M19 15h1M19 16h1M19 17h1M19 18h1M19 19h1M19 20h1M19 21h1M4 22h16M19 27h1M19 28h1M19 29h1M19 30h1M19 31h1M19 32h1M19 33h1M19 34h1M4 35h16\" />"
 }
