@@ -2,30 +2,32 @@
 //#include "2x.inc"
 //#include "3x.inc"
 
-#declare wallWidth = 10;
-#declare wallHeight = 10;
-#declare wallThickness = 2;
 
-#declare columnThickness = 2;
 
 // create porch negative shape for roof and cutting off front of house
 
-#macro porch()
-	#local numPorchTypes = 3;
+#macro porch(wallWidth, wallHeight, wallThickness, columnThickness)
 	#local randSeed = seed(now * 100000);
-	#local porchType = numPorchTypes * ceil(rand(randSeed));
 
+	#local numPorchTypes = 3;
+	#local porchType = ceil(numPorchTypes * rand(randSeed));
 	#debug concat("Porch type: ", str(porchType, 0, 2), "\n")
+	
+	#local numArchTypes = 2;
+	#local archTypes = array[numArchTypes] { "square", "round" };
+	#local archTypeIndex = floor(numArchTypes * rand(randSeed));
+	#local archType = archTypes[archTypeIndex];
+	#debug concat("Porch arch type: ", archType, "\n")
 
 	#switch (porchType)
 	#case (1)
-		porch_1x()
+		porch__1x(archType)
 		#break
 	#case (2)
-		porch_2x()
+		porch__2x(archType)
 		#break
 	#case (3)
-		porch_3x()
+		porch__3x(archType)
 		#break
 	#end
 #end

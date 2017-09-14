@@ -1,6 +1,16 @@
 #version 3.7;
 global_settings {  assumed_gamma 1.0 }
 
+#declare idk = 3;
+
+#include "porch/arch/shape/square.inc"
+#include "porch/arch/shape/round.inc"
+
+#include "porch/arch/arch.inc"
+#include "porch/arch/1x.inc"
+#include "porch/arch/2x.inc"
+#include "porch/arch/3x.inc"
+
 #include "porch/porch.inc"
 #include "porch/1x.inc"
 #include "porch/2x.inc"
@@ -8,9 +18,10 @@ global_settings {  assumed_gamma 1.0 }
 
 
 camera {
-  location <0, 0, -150>
-  look_at <0, 0, 0>
-  angle 80
+	orthographic
+	location <0, 0, -50>
+	look_at <0, 0, 0>
+	angle 80
 }
 
 light_source {
@@ -24,7 +35,13 @@ sky_sphere {
 	}
 }
 
-object { porch() }
+
+#declare wallWidth = 10;
+#declare wallHeight = 10;
+#declare wallThickness = 2;
+#declare columnThickness = 2;
+#declare headerThickness = 2;
+object { porch(wallWidth, wallHeight, wallThickness, columnThickness) }
 
 
 
