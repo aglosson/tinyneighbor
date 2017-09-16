@@ -20,7 +20,7 @@ global_settings {  assumed_gamma 1.0 }
 
 
 camera {
-	location <0, 20, -50>
+	location <-20, 20, -50>
 	look_at <0, 0, 0>
 	angle 80
 }

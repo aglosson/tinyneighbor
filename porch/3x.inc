@@ -7,18 +7,41 @@
 	#local arch1XPos = columnThickness;
 	#local arch2XPos = arch1XPos + archWidth + columnThickness;
 	#local arch3XPos = arch2XPos + archWidth + columnThickness;
+	
+	// for left and right porch walls
+	#local arch1x_xPos = columnThickness;
+	#local arch1x_width = wallWidth - (columnThickness * 2);
+	#local arch1x = difference {
+		box { <0, 0, 0>, <wallWidth, wallHeight, wallThickness> }
+		porch_arch(archType, 1, arch1x_xPos, arch1x_width)
+	}
 
 	union {
+		// left
+		object {
+			arch1x
+			rotate <0, -90, 0>
+			translate <columnThickness, 0, 0>
+		}	
+		
+		// front
 		difference {
 			box { <0, 0, 0>, <totalWallWidth, wallHeight, wallThickness> }	
 			porch_arch(archType, 1, arch1XPos, archWidth)
 			porch_arch(archType, 1, arch2XPos, archWidth)
 			porch_arch(archType, 1, arch3XPos, archWidth)
 		}
-		texture {
-			pigment {
-				wallColor
-			}
+		
+		// right
+		object {
+			arch1x
+			rotate <0, -90, 0>
+			translate <wallWidth * numOfPanels, 0, 0>
+		}	
+	}
+	texture {
+		pigment {
+			wallColor
 		}
 	}
 #end
