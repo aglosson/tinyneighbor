@@ -6,5 +6,11 @@
 	#case (strcmp(archType, "round"))
 		porch_arch_shape__round(numWallPanelsWide, archXPos, archWidth)
 		#break
+	#case (strcmp(archType, "roundedSquare"))
+		porch_arch_shape__roundedSquare(numWallPanelsWide, archXPos, archWidth)
+		#break
+	#case (strcmp(archType, "pointed"))
+		porch_arch_shape__pointed(numWallPanelsWide, archXPos, archWidth)
+		#break
 	#end
 #end

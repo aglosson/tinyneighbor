@@ -18,11 +18,18 @@
 		porch_arch(archType, 1, arch2XPos, archWidth )
 	}
 	
-	union {
-		object { arch1 }
-		object {
-			arch2
-			translate <wallWidth, 0, 0>
+	object {
+		union {
+			object { arch1 }
+			object {
+				arch2
+				translate <wallWidth, 0, 0>
+			}
+		}
+		texture {
+			pigment {
+				wallColor
+			}
 		}
 	}
 #end
