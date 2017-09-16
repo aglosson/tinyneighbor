@@ -4,7 +4,7 @@
 	#local cylinderX = xPos + cylinderRadius;
 	
 	#local box1_x = xPos;
-	#local box1_y = 0;
+	#local box1_y = -wallWidth;
 	#local box1_z = -wallWidth;
 	
 	#local box2_x = xPos + archWidth;

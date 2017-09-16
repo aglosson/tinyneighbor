@@ -1,7 +1,7 @@
 #macro porch_arch_shape__square(numWallPanelsWide, xPos, archWidth)
 
 	#local box1_x = xPos;
-	#local box1_y = 0;
+	#local box1_y = -wallWidth;
 	#local box1_z = -wallWidth;
 	
 	#local box2_x = xPos + archWidth;

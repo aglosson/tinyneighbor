@@ -13,8 +13,8 @@
 	#local porchType = ceil(numPorchTypes * rand(randSeed));
 	#debug concat("Porch type: ", str(porchType, 0, 2), "\n")
 	
-	#local numArchTypes = 2;
-	#local archTypes = array[numArchTypes] { "square", "round" };
+	#local numArchTypes = 4;
+	#local archTypes = array[numArchTypes] { "square", "round", "roundedSquare", "pointed" };
 	#local archTypeIndex = floor(numArchTypes * rand(randSeed));
 	#local archType = archTypes[archTypeIndex];
 	#debug concat("Porch arch type: ", archType, "\n")
