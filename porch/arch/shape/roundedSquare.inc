@@ -1,5 +1,5 @@
 #macro porch_arch_shape__roundedSquare(numWallPanelsWide, xPos, archWidth)
-	#local cylinderRadius = 0.1;
+	#local cylinderRadius = columnThickness;
 	#local cylinderY = wallHeight - headerThickness - cylinderRadius;
 	
 	#local cylinder1_x = xPos + cylinderRadius;
