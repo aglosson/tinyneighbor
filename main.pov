@@ -18,11 +18,18 @@ global_settings {  assumed_gamma 1.0 }
 #include "porch/2x.inc"
 #include "porch/3x.inc"
 
+#include "roof/roof.inc"
+
+#include"math.inc"
+#include "transforms.inc"
+#include "analytical_g.inc"
+
 
 camera {
-	location <-20, 20, -50>
-	look_at <0, 0, 0>
-	angle 80
+//	orthographic
+	location <-15, 30, -100>
+	look_at <15, 0, 0>
+//	angle 80
 }
 
 light_source {
@@ -41,17 +48,55 @@ sky_sphere {
 #declare g = (floor(128 * rand(randSeed)) + 127) / 255;
 #declare b = (floor(128 * rand(randSeed)) + 127) / 255;
 
+#declare r2 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare g2 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare b2 = (floor(128 * rand(randSeed)) + 127) / 255;
+
 #declare wallColor = rgb<r, g, b>;
 #debug concat("R: ", str(r, 0, 2), "\n")
 #debug concat("G: ", str(g, 0, 2), "\n")
 #debug concat("B: ", str(b, 0, 2), "\n")
 
-#declare wallWidth = 10;
-#declare wallHeight = 10;
-#declare wallThickness = 2;
-#declare columnThickness = 2;
-#declare headerThickness = 2;
+#local numDoorPositions = 3;
+#declare doorPosition = ceil(numDoorPositions * rand(randSeed));
+#debug concat("Porch position: ", str(doorPosition, 0, 2), "\n")
+
+#declare wallWidth = 20;
+#declare wallHeight = 20;
+#declare wallThickness = 3;
+#declare columnThickness = 3;
+#declare headerThickness = 3;
+
+#declare overhang = 5;
+#declare pitch = (20 * rand(randSeed)) + 15;
+#declare tileType = "solid";
+
+box {
+	<0, 0, wallWidth> <wallWidth * 3, wallWidth, wallWidth * 4>
+	texture {
+		pigment {
+			rgb<r2, g2, b2>
+		}
+	}
+}
+
+union {
+object {
+	roof(60, 60, pitch, overhang, tileType)
+	translate <0, wallWidth, wallWidth>
+	texture {
+		pigment {
+			rgb<r2, g2, b2>
+		}
+	}
+}
+
 object { porch(wallWidth, wallHeight, wallThickness, columnThickness) }
+}
+
+
+
+
 
 
 
