@@ -1,11 +1,3 @@
-//#include "1x.inc"
-//#include "2x.inc"
-//#include "3x.inc"
-
-
-
-// create porch negative shape for roof and cutting off front of house
-
 #macro porch(wallWidth, wallHeight, wallThickness, columnThickness)
 	#local randSeed = seed(now * 100000);
 
@@ -21,7 +13,10 @@
 
 	#switch (porchType)
 	#case (1)
-		porch__1x(archType)
+		object {
+			porch__1x(archType)
+			translate <wallWidth * (doorPosition - 1), 0, 0>
+		}
 		#break
 	#case (2)
 		porch__2x(archType)
