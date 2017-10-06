@@ -38,15 +38,10 @@
 			rotate <0, -90, 0>
 			translate <wallWidth * numOfPanels, 0, 0>
 		}
-		
-		object {
-			roof(wallWidth * numOfPanels, 60 + wallWidth, pitch, overhang, tileType)
-			translate <0, wallWidth, 0>
-		}
 	}
 	texture {
 		pigment {
-			wallColor
+			bodyColor1
 		}
 	}
 #end
