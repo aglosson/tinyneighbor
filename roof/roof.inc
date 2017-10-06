@@ -16,7 +16,7 @@
 		}
 		texture {
 			pigment {
-				wallColor
+				roofColor
 			}
 		}
 		rotate <rotation, 0, 0>
@@ -45,10 +45,10 @@
 	
 	// solid tile panel
 	#local tilePanel = object {
-		box { <0, 0, 0> <100, 2, 100> }
+		box { <0, 0, 0> <100, 1, 100> }
 		texture {
 			pigment {
-				wallColor
+				roofColor
 			}
 		}
 	};
