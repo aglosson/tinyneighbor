@@ -28,30 +28,40 @@
 	
 	object {
 		union {
-			// left
-			object {
-				arch1x
-				rotate <0, -90, 0>
-				translate <columnThickness, 0, 0>
-			}	
-			
-			// front
-			object { arch1 }
-			object {
-				arch2
-				translate <wallWidth, 0, 0>
+			union {
+				// left
+				object {
+					arch1x
+					rotate <0, -90, 0>
+					translate <columnThickness, 0, 0>
+				}	
+				
+				// front
+				object { arch1 }
+				object {
+					arch2
+					translate <wallWidth, 0, 0>
+				}
+				
+				// right
+				object {
+					arch1x
+					rotate <0, -90, 0>
+					translate <wallWidth * numOfPanels, 0, 0>
+				}
+				
+				porchSteps(archWidth + (columnThickness * 2))
 			}
 			
-			// right
-			object {
-				arch1x
-				rotate <0, -90, 0>
-				translate <wallWidth * numOfPanels, 0, 0>
+			union {
+				box { <0, 0, 0> <porchSectionsSpan * bodySectionWidth, -(porchStepRise * numPorchSteps), bodySectionWidth> }
+				porchSteps(wallWidth)
 			}
 		}
+		
 		texture {
 			pigment {
-				bodyColor1
+				accentColor1
 			}
 		}
 	}
