@@ -33,7 +33,7 @@
 					}
 				#end
 			#end
-		}
+		};
 	
 	// curved tile panel
 //	#local tilePanel = object {

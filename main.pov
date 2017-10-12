@@ -17,6 +17,7 @@ global_settings {  assumed_gamma 1.0 }
 #include "porch/3x.inc"
 
 #include "roof/roof.inc"
+#include "porch/steps.inc"
 
 #include"math.inc"
 #include "transforms.inc"
@@ -25,7 +26,7 @@ global_settings {  assumed_gamma 1.0 }
 
 camera {
 //	orthographic
-	location <0, 10, -50>
+	location <18, 10, -50>
 	look_at <15, 0, 0>
 //	angle 80
 }
@@ -52,6 +53,14 @@ sky_sphere {
 #declare r2 = (floor(128 * rand(randSeed)) + 127) / 255;
 #declare g2 = (floor(128 * rand(randSeed)) + 127) / 255;
 #declare b2 = (floor(128 * rand(randSeed)) + 127) / 255;
+
+#declare r3 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare g3 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare b3 = (floor(128 * rand(randSeed)) + 127) / 255;
+
+#declare r4 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare g4 = (floor(128 * rand(randSeed)) + 127) / 255;
+#declare b4 = (floor(128 * rand(randSeed)) + 127) / 255;
 
 #declare wallThickness = 2;
 #declare columnThickness = 2;
@@ -208,11 +217,11 @@ sky_sphere {
 //
 #declare bodyColor1 = color <r, g, b>;
 //#declare bodyColor2;
-//#declare accentColor1;
-//#declare accentColor2;
 #declare roofColor = color <r2, g2, b2>;
+#declare accentColor1 = color <r3, g3, b3>;
+#declare accentColor2 = color <r4, g4, b4>;
 
-
+// house body
 object {
 	difference {
 		box {
@@ -236,18 +245,18 @@ object {
 	}
 }
 
+// house roof
 object {
-	box {
-		<-1, 0, -1> <bodyWidth + 1, -1, bodyWidth + 1>
-	}
-	
+	roof(bodyWidth, bodyWidth, pitch, overhang, tileType)
+	translate <0, bodyHeight, bodySectionWidth>
 	texture {
 		pigment {
-			color <(floor(128 * rand(randSeed)) + 127) / 255, (floor(128 * rand(randSeed)) + 127) / 255, (floor(128 * rand(randSeed)) + 127) / 255>
+			roofColor
 		}
 	}
 }
 
+// indoor light
 light_source {
     <bodyWidth / 2, bodyHeight / 2, (bodyWidth / 2) + bodySectionWidth>
     color rgb<1,1,1>
@@ -256,25 +265,46 @@ light_source {
     jitter
 }
 
-union {
-	object {
-		roof(bodyWidth, bodyWidth, pitch, overhang, tileType)
-		translate <0, bodyHeight, bodySectionWidth>
-		texture {
-			pigment {
-				roofColor
-			}
-		}
-	}
-	
-	object {
-		roof(porchSectionsSpan * bodySectionWidth, bodyWidth + bodySectionWidth, pitch, overhang, tileType)
-		translate <bodySectionWidth * (porchPosition - 1), bodyHeight, 0>
-	}
+// temp ground
+//object {
+//	box {
+//		<-1, 0, -1> <bodyWidth + 1, -1, bodyWidth + 1>
+//	}
+//	
+//	texture {
+//		pigment {
+//			color <(floor(128 * rand(randSeed)) + 127) / 255, (floor(128 * rand(randSeed)) + 127) / 255, (floor(128 * rand(randSeed)) + 127) / 255>
+//		}
+//	}
+//}
 
-	object {
-		porch(bodySectionWidth, bodyHeight, wallThickness, columnThickness)
-		translate <bodySectionWidth * (porchPosition - 1), 0, 0>
+// porch steps
+#declare numPorchSteps = floor(4 * rand(randSeed)); // 0 - 3
+#debug concat("Porch steps: ", str(numPorchSteps, 0, 2), "\n")
+#declare porchStepRise = 1;
+#declare porchStepRun = 3;
+#declare porchStepsHeight = porchStepRise * numPorchSteps;
+
+// porch
+object {
+	roof(porchSectionsSpan * bodySectionWidth, bodyWidth + bodySectionWidth, pitch, overhang, tileType)
+	translate <bodySectionWidth * (porchPosition - 1), bodyHeight, 0>
+}
+
+object {
+	porch(bodySectionWidth, bodyHeight, wallThickness, columnThickness)
+	translate <bodySectionWidth * (porchPosition - 1), 0, 0>
+}
+
+
+// house foundation
+object {
+	box { <0, 0, 0> <bodyWidth, -(porchStepRise * numPorchSteps), bodyWidth> }
+	translate <0, 0, bodySectionWidth>
+	texture {
+		pigment {
+			accentColor1
+		}
 	}
 }
 
